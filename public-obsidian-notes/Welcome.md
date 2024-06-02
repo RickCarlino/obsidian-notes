@@ -5,5 +5,6 @@ I use this as a public notebook for quick ideas or small content that does not f
 ### Koala Cards
  * [[Koala Cards Roadmap]]
 ### Korean Language Studies
+ - [[How I Passed the TOPIK via Part-Time Study]]
  - [[300 Random Grammar Patterns]]
  - [[GPT Prompt - Grammar Pattern Practice Drills]]
