@@ -1,15 +1,14 @@
 ### Done
+???:[[-다 싶다]] (Not found in dictionary, referenced in YouTube tutorial)
 118: [[-나 싶다]]
+144: [[-는 관계로]]
+144: [[-는 구나, -는군, -는군요]]
 201: [[-대요]]
 235: [[-까 싶다]]
 361: [[-어야]]
 466: [[-지 싶다]]
-???:[[-다 싶다]] (Not found in dictionary, referenced in YouTube tutorial)
 
 ### Up Next
-144: [[-는 관계로]]
-144: [[-는 구나]]
-144: [[-는군]]
 360: [[-아 서야]]
 360: [[-이서요]]
 456: [[-잔 말이다]]
