@@ -5,6 +5,7 @@
 ### Features
  * Decks
  * Shared Decks
+ * Ability to attach notes to cards
  * New Card types
 	 * Listening only
 	 * Image identification (for nouns)
@@ -12,6 +13,5 @@
  * Card progression (dictation => Reading => Listening => Speaking)
  * FSRS Revlog
  
-
 ### Koala Cards
  * [[Koala Cards Roadmap]]

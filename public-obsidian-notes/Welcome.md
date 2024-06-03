@@ -8,3 +8,4 @@ I use this as a public notebook for quick ideas or small content that does not f
  - [[How I Passed the TOPIK via Part-Time Study]]
  - [[300 Random Grammar Patterns]]
  - [[GPT Prompt - Grammar Pattern Practice Drills]]
+ - [[Current Notes Scratchpad]]
