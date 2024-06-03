@@ -22,6 +22,8 @@ The patterns below were skipped because I am already very familiar with them, or
 456: [[-잖아]]
 
 ### Remaining
+(The list below is a random shuffling of every page in the dictionary that contains a grammar point. I approach the list in random order to avoid the monotony of learning grammar in alphabetized order.)
+
 456, 144, 101, 360
 248, 350, 139, 39
 87, 337, 138, 400
