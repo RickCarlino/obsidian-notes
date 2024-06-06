@@ -2,6 +2,11 @@ Welcome, this site is part of [my main blog at RickCarlino.com](https://rickcarl
 
 I use this as a public notebook for quick ideas or small content that does not fit into my main blog.
 
+### Interesting Articles
+
+- [Research as Leisure Activitiy](https://www.personalcanon.com/p/research-as-leisure-activity)
+### Software
+* [[Probability-Based Software Estimation]]
 ### Koala Cards
  * [[Koala Cards Roadmap]]
 ### Korean Language Studies
