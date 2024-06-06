@@ -6,12 +6,14 @@
 201: [[-대요]]
 235: [[-까 싶다]]
 360: [[-아서요]]
-360: [[-아 서야]] (Difficult, re-review later)
 361: [[-어야]]
 466: [[-지 싶다]]
 
-### Up Next
+### Re-Review Queue
+These required special attention.
+360: [[-아 서야]]
 456: [[-잔 말이다]]
+### Up Next
 456: [[-재]]
 ### Skipped
 The patterns below were skipped because I am already very familiar with them, or I am not interested in learning them.

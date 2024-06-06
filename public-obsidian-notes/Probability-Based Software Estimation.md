@@ -1,4 +1,17 @@
- * People
- * Tasks
- * Probabilities
- * 
+**NOTE:** This is a draft outline
+- Team
+	- People
+		- Capacity
+- Projects
+	- Sprint
+	- Tasks
+		- Size
+			- probability
+	- Estimates
+		- Bands
+- Methodology
+	- Problems with existing methodologies
+	- Limitations of methodology
+	- Features
+	- Goals
+	- Non-goals
