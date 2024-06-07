@@ -14,3 +14,5 @@ I use this as a public notebook for quick ideas or small content that does not f
  - [[300 Random Grammar Patterns]]
  - [[GPT Prompt - Grammar Pattern Practice Drills]]
  - [[Current Notes Scratchpad]]
+### ChatGPT For Language Learning
+  - [[Writing Translations to Focus on Nuance Rather Than Fluency]]
