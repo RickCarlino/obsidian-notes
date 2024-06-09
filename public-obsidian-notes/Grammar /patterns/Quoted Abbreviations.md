@@ -1,5 +1,4 @@
-Will get to this later.
-
+[[Quoted Forms]] often have an abbreviated form (ex: [[-다고 해요]] becomes [[-대요]]).
 ## Examples
 - [[-다고요]]
 - [[-대요]] / [[-댔어요]]

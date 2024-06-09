@@ -20,7 +20,7 @@
 These required special attention.
 360: [[-아 서야]]
 456: [[-잔 말이다]]
-456: [[-재]] Going to take a detour to work on [[Quoted Abbreviations]] and [[Quoted Forms]
+456: [[-재]] Going to take a detour to work on [[Quoted Abbreviations]] and [[Quoted Forms]]
 ### Progress
 8-JUN-24 DONE + REVIEW = 12 
 ### Skipped
