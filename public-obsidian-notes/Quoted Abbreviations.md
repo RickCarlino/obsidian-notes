@@ -8,7 +8,9 @@ Will get to this later.
 - [[-으래요]]
 - [[-냬요]]
 - [[-재요]]
-- [[]]
+- [[-달래요]]
+- [[-주래요]]
+
 ### Resources
  - [HowToLearnKorean.Com Tutorial](https://www.howtostudykorean.com/unit-5/lessons-101-108/lesson-102/)
 - [Go! Billy Korean Short Quoting Forms Tutorial](https://www.youtube.com/watch?v=g6xm_xeNqd8)
