@@ -9,27 +9,32 @@
 361: [[-어야]]
 466: [[-지 싶다]]
 
-### Re-Review Queue
+### Up Next
+248: [[-ㄹ 지]]
+248:  [[-ㄹ 지경이다]]
+139: [[-는가?]]
+139: [[-는가 보다]]
+39: [[-거니와]]
+
+### Re-Review Later
 These required special attention.
 360: [[-아 서야]]
 456: [[-잔 말이다]]
 456: [[-재]] Going to take a detour to work on [[Quoted Abbreviations]] and [[Quoted Forms]
 ### Progress
 8-JUN-24 DONE + REVIEW = 12 
-### Up Next
 ### Skipped
 The patterns below were skipped because I am already very familiar with them, or I am not interested in learning them.
-
+39: [[-거든]]
 101: [[-ㄴ데]]
 247: [[-ㄹ 줄 알다 / 모르다]]
+347: [[-아도]] (The description of this pattern takes up 3.5 pages!)
 361: [[-아서 죽겠다]]
 456: [[-잖아]]
 
 ### Remaining
 (The list below is a random shuffling of every page in the dictionary that contains a grammar point. I approach the list in random order to avoid the monotony of learning grammar in alphabetized order.)
 
-456, 144, 101, 360
-248, 350, 139, 39
 87, 337, 138, 400
 151, 92, 70, 444
 34, 401, 240, 49
