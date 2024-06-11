@@ -5,12 +5,12 @@
 144: [[-는 구나, -는군, -는군요]]
 201: [[-대요]]
 235: [[-까 싶다]]
+248: [[-ㄹ 지]]
 360: [[-아서요]]
 361: [[-어야]]
 466: [[-지 싶다]]
 
 ### Up Next
-248: [[-ㄹ 지]]
 248:  [[-ㄹ 지경이다]]
 139: [[-는가?]]
 139: [[-는가 보다]]
@@ -22,7 +22,7 @@ These required special attention.
 456: [[-잔 말이다]]
 456: [[-재]] Going to take a detour to work on [[Quoted Abbreviations]] and [[Quoted Forms]]
 ### Progress
-8-JUN-24 DONE + REVIEW = 12 
+8-JUN-24 DONE + REVIEW = 12
 ### Skipped
 The patterns below were skipped because I am already very familiar with them, or I am not interested in learning them.
 39: [[-거든]]
