@@ -1,28 +1,34 @@
+### Friends Along the Way
+
+Some patterns that were not in my book that I learned via passive exposure:
+1. [[-다 싶다]]
+2. [[Quoted Abbreviations]]
+3. [[Quoted Forms]]
 ### Done
-???:[[-다 싶다]] (Not found in dictionary, referenced in YouTube tutorial)
-118: [[-나 싶다]]
-144: [[-는 관계로]]
-144: [[-는 구나, -는군, -는군요]]
-201: [[-대요]]
-235: [[-까 싶다]]
-248: [[-ㄹ 지]]
-248:  [[-ㄹ 지경이다]]
-360: [[-아서요]]
-361: [[-어야]]
-466: [[-지 싶다]]
+1. 39: [[-거니와]]
+2. 118: [[-나 싶다]]
+3. 144: [[-는 관계로]]
+4. 144: [[-는 구나, -는군, -는군요]]
+5. 201: [[-대요]]
+6. 235: [[-까 싶다]]
+7. 248: [[-ㄹ 지]]
+8. 248:  [[-ㄹ 지경이다]]
+9. 360: [[-아서요]]
+10. 361: [[-어야]]
+11. 466: [[-지 싶다]]
 
 ### Up Next
 139: [[-는가?]]
 139: [[-는가 보다]]
-39: [[-거니와]]
 
 ### Re-Review Later
 These required special attention.
 360: [[-아 서야]]
 456: [[-잔 말이다]]
-456: [[-재]] Going to take a detour to work on [[Quoted Abbreviations]] and [[Quoted Forms]]
+456: [[-재]] Going to take a detour to work on 
 ### Progress
-8-JUN-24 DONE + REVIEW = 12
+8-JUN-24 2 + 10 =12
+11-JUN-24 3 + 11 => 14
 ### Skipped
 The patterns below were skipped because I am already very familiar with them, or I am not interested in learning them.
 39: [[-거든]]

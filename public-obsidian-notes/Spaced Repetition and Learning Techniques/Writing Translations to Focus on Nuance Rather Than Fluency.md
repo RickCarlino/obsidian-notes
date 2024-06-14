@@ -1,3 +1,6 @@
+
+**Dicovery:** Telling ChatGPT that "I prefer literal translations more than natural translations" makes translations more appropriate for grammar study.
+
 Sometimes when I ask ChatGPT to translate things from Korean to English, it tries very hard to make the sentences sound like natural English. This is generally a good thing, but in the context of language learning it's not a good thing because it does not capture the nuance of the grammar that's being translated. When I make flashcards from sentences that I have translated to English, I want all of the nuance of the Korean language to be captured, and I don't really care if it sounds like a very fluent English sentence. The conversation below shows how you can adjust ChatGPT output to give more attention to nuance rather than fluency.
 
 Me: 
