@@ -1,5 +1,4 @@
 ### Friends Along the Way
-
 Some patterns that were not in my book that I learned via passive exposure:
 1. [[-다 싶다]]
 2. [[Quoted Abbreviations]]
@@ -7,19 +6,21 @@ Some patterns that were not in my book that I learned via passive exposure:
 ### Done
 1. 39: [[-거니와]]
 2. 118: [[-나 싶다]]
-3. 144: [[-는 관계로]]
-4. 144: [[-는 구나, -는군, -는군요]]
-5. 201: [[-대요]]
-6. 235: [[-까 싶다]]
-7. 248: [[-ㄹ 지]]
-8. 248:  [[-ㄹ 지경이다]]
-9. 360: [[-아서요]]
-10. 361: [[-어야]]
-11. 466: [[-지 싶다]]
-
+3. 139: [[-는가 보다]]
+4. 139: [[-는가(요)?]]
+5. 144: [[-는 관계로]]
+6. 144: [[-는 구나, -는군, -는군요]]
+7. 201: [[-대요]]
+8. 235: [[-까 싶다]]
+9. 248: [[-ㄹ 지]]
+10. 248:  [[-ㄹ 지경이다]]
+11. 360: [[-아서요]]
+12. 361: [[-어야]]
+13. 466: [[-지 싶다]]
 ### Up Next
-139: [[-는가?]]
-139: [[-는가 보다]]
+400: [[-에는]]
+400: [[-에다]]
+400: [[-에다가]]
 
 ### Re-Review Later
 These required special attention.
@@ -37,11 +38,11 @@ The patterns below were skipped because I am already very familiar with them, or
 347: [[-아도]] (The description of this pattern takes up 3.5 pages!)
 361: [[-아서 죽겠다]]
 456: [[-잖아]]
+337: [[아!]]
 
 ### Remaining
 (The list below is a random shuffling of every page in the dictionary that contains a grammar point. I approach the list in random order to avoid the monotony of learning grammar in alphabetized order.)
 
-87, 337, 138, 400
 151, 92, 70, 444
 34, 401, 240, 49
 66, 435, 177, 133
