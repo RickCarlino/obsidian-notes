@@ -12,9 +12,11 @@
  * New Card types
 	 * Listening only
 	 * Image identification (for nouns)
+	 * Listening / reading comprehension (theme + vocabulary word = machine generated paragraph and followup questions)
  * Learning session options (listening only, one deck only, one language only, etc)
  * Card progression (dictation => Reading => Listening => Speaking)
  * FSRS Revlog
+ * Card notes that are shown/added on failure.
  
 ### Koala Cards
  * [[Koala Cards Roadmap]]

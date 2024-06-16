@@ -17,16 +17,22 @@ Some patterns that were not in my book that I learned via passive exposure:
 11. 360: [[-아서요]]
 12. 361: [[-어야]]
 13. 466: [[-지 싶다]]
-### Up Next
-400: [[-에는]]
-400: [[-에다]]
-400: [[-에다가]]
+14. 400: [[-에다]]
 
+### Up Next
+70: [[-구나]]
+70: [[-과 반대]]
+92: [[]]
+151
+444
+400: [[-에는]]
 ### Re-Review Later
 These required special attention.
 360: [[-아 서야]]
 456: [[-잔 말이다]]
 456: [[-재]] Going to take a detour to work on 
+400: [[-에다가]]
+
 ### Progress
 8-JUN-24 2 + 10 =12
 11-JUN-24 3 + 11 => 14
@@ -43,7 +49,6 @@ The patterns below were skipped because I am already very familiar with them, or
 ### Remaining
 (The list below is a random shuffling of every page in the dictionary that contains a grammar point. I approach the list in random order to avoid the monotony of learning grammar in alphabetized order.)
 
-151, 92, 70, 444
 34, 401, 240, 49
 66, 435, 177, 133
 379, 105, 72, 355
