@@ -13,6 +13,7 @@
 	 * Listening only
 	 * Image identification (for nouns)
 	 * Listening / reading comprehension (theme + vocabulary word = machine generated paragraph and followup questions)
+	 * Typing (a dictation test for spelling)
  * Learning session options (listening only, one deck only, one language only, etc)
  * Card progression (dictation => Reading => Listening => Speaking)
  * FSRS Revlog
