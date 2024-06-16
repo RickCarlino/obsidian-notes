@@ -8,6 +8,7 @@
 ### Features
  * Decks
  * Shared Decks
+ * "Review Radio"
  * Ability to attach notes to cards
  * New Card types
 	 * Listening only
