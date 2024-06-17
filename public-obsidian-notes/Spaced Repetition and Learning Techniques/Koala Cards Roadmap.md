@@ -9,6 +9,7 @@
  * Decks
  * Shared Decks
  * "Review Radio"
+	 * Experiment in progress.
  * Ability to attach notes to cards
  * New Card types
 	 * Listening only
