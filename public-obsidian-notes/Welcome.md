@@ -1,3 +1,4 @@
+![[Pasted image 20240618075215.png]]
 Welcome, this site is part of [my main blog at RickCarlino.com](https://rickcarlino.com).
 
 I use this as a public notebook for quick ideas or small content that does not fit into my main blog.

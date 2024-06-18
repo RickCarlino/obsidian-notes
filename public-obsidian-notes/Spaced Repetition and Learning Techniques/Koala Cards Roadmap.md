@@ -2,6 +2,8 @@
 - "wrong" grading and rollback refactor
 - Use GCS instead of B64 strings for Audio (Firefox memory leak)
 - Need a "Refresh" button for incorrect card illustrations, such as the card "Await the order".
+- Review UI and Learn UI are shared currently.
+	- The "AGAIN" button is not  really correct in this context. Should just be a 0-4 scale of difficulty.
 #### Small Features
 - Store audio in Google Cloud, not B64.
 - Always play audio back even if difficulty is not AGAIN
