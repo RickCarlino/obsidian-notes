@@ -11,8 +11,8 @@ I use this as a public notebook for quick ideas or small content that does not f
  * [[Koala Cards Roadmap]]
 ### Korean Language Studies
  - [[300 Random Grammar Patterns]]
- - [[GPT Prompt - Grammar Pattern Practice Drills]]
  - [[Passing the TOPIK via Part-Time Study]]
-
- ### ChatGPT For Language Learning
-  - [[Writing Translations to Focus on Nuance Rather Than Fluency]]
+### LLM Prompting for Language Learners
+- [[Grammar Pattern Practice Drills]]
+- [[Reading Level "Downscaling"]]
+- [[Literal vs. Natural Translations]]

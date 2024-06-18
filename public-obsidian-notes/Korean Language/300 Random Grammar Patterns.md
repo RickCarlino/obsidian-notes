@@ -37,6 +37,9 @@ These required special attention.
 456: [[-잔 말이다]]
 456: [[-재]] Going to take a detour to work on 
 400: [[-에다가]]
+(Maybe Not in book):
+[[-는 사이에]]
+[[-ㄹ 까 하다]]
 
 ### Progress
 8-JUN-24 2 + 10 =12
