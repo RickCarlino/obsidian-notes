@@ -1,29 +1,30 @@
-### Friends Along the Way
-Some patterns that were not in my book that I learned via passive exposure:
-1. [[-다 싶다]]
-2. [[Quoted Abbreviations]]
-3. [[Quoted Forms]]
-4. [[-구먼]]
-5. 
+
 ### Done
-1. Page 039: [[-거니와]]
-2. Page 070: [[-구나]]
-3. Page 070: [[-과 반대로]]
-4. Page 118: [[-나 싶다]]
-5. Page 139: [[-는가 보다]]
-6. Page 139: [[-는가(요)?]]
-7. Page 144: [[-는 관계로]]
-8. Page 144: [[-는 구나, -는군, -는군요]]
-9. Page 201: [[-대요]]
-10. Page 235: [[-까 싶다]]
-11. Page 248: [[-ㄹ 지경이다]]
-12. Page 248: [[-ㄹ 지]]
-13. Page 360: [[-아서요]]
-14. Page 361: [[-어야]]
-15. Page 400: [[-에다]]
-16. Page 466: [[-지 싶다]]
+1. 000: [[-다시피 하다]]
+2. 000:[[-다 싶다]]
+2. 000: [[Quoted Abbreviations]]
+3. 000: [[Quoted Forms]]
+4. 000: [[-구먼]]
+3. Page 039: [[-거니와]]
+4. Page 070: [[-구나]]
+5. Page 070: [[-과 반대로]]
+6. Page 118: [[-나 싶다]]
+7. Page 139: [[-는가 보다]]
+8. Page 139: [[-는가(요)?]]
+9. Page 144: [[-는 관계로]]
+10. Page 144: [[-는 구나, -는군, -는군요]]
+11. Page 197: [[-다시피]]
+12. Page 201: [[-대요]]
+13. Page 235: [[-까 싶다]]
+14. Page 248: [[-ㄹ 지경이다]]
+15. Page 248: [[-ㄹ 지]]
+16. Page 360: [[-아서요]]
+17. Page 361: [[-어야]]
+18. Page 400: [[-에다]]
+19. Page 466: [[-지 싶다]]
 
 ### Up Next
+197:[[-단다]]
 92: [[-ㄴ가]]
 151: [[-는다는구나]]
 151:[[-는다든다]]
@@ -31,7 +32,6 @@ Some patterns that were not in my book that I learned via passive exposure:
 444:[[-이란]]
 444:[[-이랑]]
 400: [[-에는]]
-???: [[-다시피]]
 ???:[[-까지 alternative use]]
 
 ### Re-Review Later
@@ -110,7 +110,7 @@ The patterns below were skipped because I am already very familiar with them, or
 186, 446, 440, 234
 313, 363, 399, 323
 422, 238, 164, 443
-257, 197, 230, 324
+257, 230, 324
 270, 45, 389, 351
 268, 160, 127, 220
 52, 40, 275, 242
