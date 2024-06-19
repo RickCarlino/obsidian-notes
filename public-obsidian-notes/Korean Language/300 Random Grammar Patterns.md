@@ -31,6 +31,8 @@ Some patterns that were not in my book that I learned via passive exposure:
 444:[[-이란]]
 444:[[-이랑]]
 400: [[-에는]]
+???: [[-다시피]]
+
 ### Re-Review Later
 These required special attention.
 360: [[-아 서야]]
