@@ -32,6 +32,7 @@ Some patterns that were not in my book that I learned via passive exposure:
 444:[[-이랑]]
 400: [[-에는]]
 ???: [[-다시피]]
+???:[[-까지 alternative use]]
 
 ### Re-Review Later
 These required special attention.

@@ -8,6 +8,7 @@
 - Store audio in Google Cloud, not B64.
 - Always play audio back even if difficulty is not AGAIN
 - Add a "refresh" button to the final page of the "Add Cards" flow for when it doesn't come out quite right.
+- Include the card front/back when sending transcription to Whisper (might reduce transcription error rate).
 ### Features
  * Decks
  * Shared Decks
