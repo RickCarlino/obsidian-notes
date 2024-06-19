@@ -1,30 +1,35 @@
 
 ### Done
+
+I am randomly picking grammar points (by page) from the book "어미 조사 학습자용 사전".
+A page number of 000 indicates that I didn't find it in the book (usually for grammar patterns not described in the book and encountered in real world texts and videos).
+
 1. 000: [[-다시피 하다]]
 2. 000:[[-다 싶다]]
 2. 000: [[Quoted Abbreviations]]
 3. 000: [[Quoted Forms]]
 4. 000: [[-구먼]]
-3. Page 039: [[-거니와]]
-4. Page 070: [[-구나]]
-5. Page 070: [[-과 반대로]]
-6. Page 118: [[-나 싶다]]
-7. Page 139: [[-는가 보다]]
-8. Page 139: [[-는가(요)?]]
-9. Page 144: [[-는 관계로]]
-10. Page 144: [[-는 구나, -는군, -는군요]]
-11. Page 197: [[-다시피]]
-12. Page 201: [[-대요]]
-13. Page 235: [[-까 싶다]]
-14. Page 248: [[-ㄹ 지경이다]]
-15. Page 248: [[-ㄹ 지]]
-16. Page 360: [[-아서요]]
-17. Page 361: [[-어야]]
-18. Page 400: [[-에다]]
-19. Page 466: [[-지 싶다]]
+5. 000: [[-까지 alternative use]]
+6. Page 039: [[-거니와]]
+7. Page 070: [[-구나]]
+8. Page 070: [[-과 반대로]]
+9. Page 118: [[-나 싶다]]
+10. Page 139: [[-는가 보다]]
+11. Page 139: [[-는가(요)?]]
+12. Page 144: [[-는 관계로]]
+13. Page 144: [[-는 구나, -는군, -는군요]]
+14. Page 197: [[-다시피]]
+15. Page 197:[[-단다]]
+16. Page 201: [[-대요]]
+17. Page 235: [[-까 싶다]]
+18. Page 248: [[-ㄹ 지경이다]]
+19. Page 248: [[-ㄹ 지]]
+20. Page 360: [[-아서요]]
+21. Page 361: [[-어야]]
+22. Page 400: [[-에다]]
+23. Page 466: [[-지 싶다]]
 
 ### Up Next
-197:[[-단다]]
 92: [[-ㄴ가]]
 151: [[-는다는구나]]
 151:[[-는다든다]]
@@ -32,7 +37,6 @@
 444:[[-이란]]
 444:[[-이랑]]
 400: [[-에는]]
-???:[[-까지 alternative use]]
 
 ### Re-Review Later
 These required special attention.
