@@ -1,4 +1,3 @@
-![[Pasted image 20240618075215.png]]
 Welcome, this site is part of [my main blog at RickCarlino.com](https://rickcarlino.com).
 
 I use this as a public notebook for quick ideas or small content that does not fit into my main blog.
@@ -13,7 +12,9 @@ I use this as a public notebook for quick ideas or small content that does not f
 ### Korean Language Studies
  - [[300 Random Grammar Patterns]]
  - [[Passing the TOPIK via Part-Time Study]]
+ - [[My Readlang Importer]]
 ### LLM Prompting for Language Learners
 - [[Grammar Pattern Practice Drills]]
 - [[Reading Level "Downscaling"]]
 - [[Literal vs. Natural Translations]]
+- [[Experiment - Using Readlang Sentences to Generate New Sentences]]
