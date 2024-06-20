@@ -49,8 +49,9 @@ These required special attention.
 [[-ㄹ 까 하다]]
 
 ### Progress
-8-JUN-24 2 + 10 =12
+8-JUN-24 2 + 10 => 12
 11-JUN-24 3 + 11 => 14
+19-JUN-24 => 23
 ### Skipped
 The patterns below were skipped because I am already very familiar with them, or I am not interested in learning them.
 39: [[-거든]]
