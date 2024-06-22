@@ -2,6 +2,7 @@
 - "wrong" grading and rollback refactor
 - Use GCS instead of B64 strings for Audio (Firefox memory leak)
 - Need a "Refresh" button for incorrect card illustrations, such as the card "Await the order".
+- Hitting "AGAIN" on the first card of a session causes weird behavior.
 - Review UI and Learn UI are shared currently.
 	- The "AGAIN" button is not  really correct in this context. Should just be a 0-4 scale of difficulty.
 #### Small Features
@@ -10,6 +11,7 @@
 - Add a "refresh" button to the final page of the "Add Cards" flow for when it doesn't come out quite right.
 - Include the card front/back when sending transcription to Whisper (might reduce transcription error rate).
 ### Features
+ * Once there are no more cards for review, transition to "cram mode" which reviews cards in difficulty order and does typing / speaking tests with no grading.
  * Decks
  * Shared Decks
  * "Review Radio"
