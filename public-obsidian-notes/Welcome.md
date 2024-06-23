@@ -6,7 +6,7 @@ I use this as a public notebook for quick ideas or small content that does not f
 - [Research as Leisure Activitiy](https://www.personalcanon.com/p/research-as-leisure-activity)
 ### Idea Bin
 * [[Using LLMs to Create End-User Programmable Software]]
-* [[(INCOMPLETE) Probability-Based Software Estimation]]
+* [[Probability-Based Software Estimation]]
 ### Koala Cards
  * [[Koala Cards Roadmap]]
 ### Korean Language Studies

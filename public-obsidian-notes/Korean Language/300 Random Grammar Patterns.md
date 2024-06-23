@@ -41,6 +41,7 @@ A page number of 000 indicates that I didn't find it in the book (usually for gr
 ### Up Next
 Page 151: [[-는다든다]] 📝
 151:[[-는다든지]]
+000: [[-데에는]]
 
 ### Re-Review Later
 These required special attention.
