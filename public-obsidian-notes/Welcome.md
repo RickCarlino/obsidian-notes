@@ -18,3 +18,5 @@ I use this as a public notebook for quick ideas or small content that does not f
 - [[Reading Level "Downscaling"]]
 - [[Literal vs. Natural Translations]]
 - [[Experiment - Using Readlang Sentences to Generate New Sentences]]
+- [[Asking LLMs to follow the i+1 rule of the input hypothesis]]
+
