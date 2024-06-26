@@ -1,5 +1,7 @@
 ### Problems
 - "wrong" grading and rollback refactor
+- Changing ones mind mid recording is not possible.
+- 
 - Use GCS instead of B64 strings for Audio (Firefox memory leak)
 - Need a "Refresh" button for incorrect card illustrations, such as the card "Await the order".
 - Hitting "AGAIN" on the first card of a session causes weird behavior.
