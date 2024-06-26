@@ -20,3 +20,6 @@ I use this as a public notebook for quick ideas or small content that does not f
 - [[Experiment - Using Readlang Sentences to Generate New Sentences]]
 - [[Asking LLMs to follow the i+1 rule of the input hypothesis]]
 
+# Misc
+- [[AI Night Lightning Talk 2024-06-26]]
+
