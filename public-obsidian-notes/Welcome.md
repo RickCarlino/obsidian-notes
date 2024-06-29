@@ -4,6 +4,8 @@ I use this as a public notebook for quick ideas or small content that does not f
 
 ### Interesting Articles
 - [Research as Leisure Activitiy](https://www.personalcanon.com/p/research-as-leisure-activity)
+### Web Dev
+- [[File-Based Routing Outside of Next.JS]]
 ### Idea Bin
 * [[Using LLMs to Create End-User Programmable Software]]
 * [[Probability-Based Software Estimation]]
@@ -19,7 +21,4 @@ I use this as a public notebook for quick ideas or small content that does not f
 - [[Literal vs. Natural Translations]]
 - [[Experiment - Using Readlang Sentences to Generate New Sentences]]
 - [[Asking LLMs to follow the i+1 rule of the input hypothesis]]
-
-# Misc
-- [[AI Night Lightning Talk 2024-06-26]]
 
