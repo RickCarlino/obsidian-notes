@@ -1,4 +1,5 @@
 **NOTE:** This is my public obsidian notebook and idea bin. The intended audience is software developers.
+**UPDATE:** I recently noticed that Jira added a feature that allows users to create JQL queries using an LLM, which is aligned with many of the ideas presented below. I hope other software publishers follow this path.
 
 ### Making Everything Programmable By End-Users
 

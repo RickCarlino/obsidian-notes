@@ -1,11 +1,16 @@
+### TIP
+
+* For good results, use a secondary prompt to perform translation.
+* I had good luck with temp/top_p/frequency penalties in the 0.6-0.8 range.
+
 === Example Input:
   미국에서는 반대의 상황이 맞아요.
 
 === Examples Output:
-  반대의 상황이 맞아요. / The opposite situation is true.
-  미국에서는 반대의 주장이 맞아요. / In the United States, the opposite argument is true.
-  미국에서는 같은 상황이 있어요. / We have the same situation in America.
-  한국에서는 반대의 상황이 맞아요. / In Korea, the opposite situation is true.
+  반대의 상황이 맞아요.
+  미국에서는 반대의 주장이 맞아요.
+  미국에서는 같은 상황이 있어요.
+  한국에서는 반대의 상황이 맞아요.
 
 === Your Input: **REPLACE THIS PART WITH AN EXAMPLE SENTENCE**
 
