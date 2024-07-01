@@ -2,8 +2,11 @@ Welcome, this site is part of [my main blog at RickCarlino.com](https://rickcarl
 
 I use this as a public notebook for quick ideas or small content that does not fit into my main blog.
 
-### Interesting Articles
+### Interesting Articles and Research
 - [Research as Leisure Activitiy](https://www.personalcanon.com/p/research-as-leisure-activity)
+- [A Smart Mnemonic Sounds like “Glue Tonic”: Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick](https://arxiv.org/html/2406.15352v1)
+- [Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank](www.researchgate.net/publication/371606122_Improving_Reading_Comprehension_Question_Generation_with_Data_Augmentation_and_Overgenerate-and-rank)
+
 ### Web Dev
 - [[File-Based Routing Outside of Next.JS]]
 ### Idea Bin
