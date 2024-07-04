@@ -25,3 +25,4 @@ I use this as a public notebook for quick ideas or small content that does not f
 - [[Experiment - Using Readlang Sentences to Generate New Sentences]]
 - [[Asking LLMs to follow the i+1 rule of the input hypothesis]]
 
+![[Pasted image 20240702073356.png]]
