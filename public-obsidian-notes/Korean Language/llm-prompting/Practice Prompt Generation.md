@@ -1,4 +1,4 @@
-Languages like Korean require a student to memorize hundreds of different particles and verb endings that are attached to phrases. Memorizing verb endings and particles is a significantly different task than memorizing vocabulary. This is also true to a lesser extent for certain types of vocabulary words such as conjunctions.
+Languages like Korean require a student to memorize hundreds of different particles and verb endings that are attached to phrases (SEE: [[300 Random Grammar Patterns]]). Memorizing verb endings and particles is a significantly different task than memorizing vocabulary. This is also true to a lesser extent for certain types of vocabulary words such as conjunctions.
 
 In the case of Korean, a learner will progress to increasingly specific grammar patterns and verb endings that become less generally applicable. Although these patterns and particles are more specific and less frequent, they are still essential for understanding the language.
 

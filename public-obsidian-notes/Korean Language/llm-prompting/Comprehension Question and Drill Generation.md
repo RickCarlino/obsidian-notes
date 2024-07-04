@@ -20,3 +20,6 @@ Being able to automatically generate comprehension questions is also useful for 
     The child liked being with the grandmother.
     The grandmother found it convenient to live in the same house as the child.
     The grandmother felt bad about receiving the child's gift.
+### Research
+
+- [Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank](https://arxiv.org/abs/2306.08847)
