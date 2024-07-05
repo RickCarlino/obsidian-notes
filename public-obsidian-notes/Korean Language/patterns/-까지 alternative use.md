@@ -4,4 +4,4 @@ There is an alternative meaning where it is used to mean "even".
 #incomplete 
 # See Also
 
-[[-마저]]
+[[-마저(도)]]
