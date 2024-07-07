@@ -1,7 +1,6 @@
 ### Problems
 - "wrong" grading and rollback refactor
 - Changing ones mind mid recording is not possible.
-- 
 - Use GCS instead of B64 strings for Audio (Firefox memory leak)
 - Need a "Refresh" button for incorrect card illustrations, such as the card "Await the order".
 - Hitting "AGAIN" on the first card of a session causes weird behavior.
@@ -13,6 +12,7 @@
 - Always play audio back even if difficulty is not AGAIN
 - Add a "refresh" button to the final page of the "Add Cards" flow for when it doesn't come out quite right.
 - Include the card front/back when sending transcription to Whisper (might reduce transcription error rate).
+- Add a "disagreement count" column to identify problematic / confusing cards.
 ### Routine Features
  * Once there are no more cards for review, transition to "cram mode" which reviews cards in difficulty order and does typing / speaking tests with no grading.
  * Decks
@@ -32,6 +32,8 @@
 ### Crazy Ideas
 
  * After every correct answer, run it through a grammar correction and improvement pass. Vectorize all feedback, perform clustering, create a list of improvement goals.
- 
+ * Ability for students to link teachers or tutors to their account.
+	 * Share top N most difficult cards
+	 * Voice recording submission for pronunciation feedback
 ### Koala Cards
  * [[Koala Cards Roadmap]]

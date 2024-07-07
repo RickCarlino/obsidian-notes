@@ -1,7 +1,7 @@
 Many types of language learning software, such as spaced repetition or quiz apps, operate on the concept of providing a prompt to the user and then soliciting a response. Once the software has a response, it will do one of two things:
 
-- Grade the response via automation (Readlang, Anki)
-- Ask the user to grade the response by themselves (Anki, other SRS systems)
+- Grade the response via simple string comparison (Readlang, Anki typing mode)
+- Ask the user to grade the response by themselves (Anki, most SRS systems)
 
 Self-grading is problematic because it is subjective and can easily be influenced by a number of factors such as the student's mood or gaps in the student's understanding of the target language.
 
