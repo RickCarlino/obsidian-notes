@@ -1,5 +1,6 @@
 ### Problems
 - "wrong" grading and rollback refactor
+- We don't cache correct responses, leading to increased cost.
 - Changing ones mind mid recording is not possible.
 - Use GCS instead of B64 strings for Audio (Firefox memory leak)
 - Need a "Refresh" button for incorrect card illustrations, such as the card "Await the order".
