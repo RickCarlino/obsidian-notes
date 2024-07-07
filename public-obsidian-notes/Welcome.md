@@ -8,6 +8,13 @@ I use this as a public notebook for quick ideas or small content that does not f
 
 ### Web Dev
 - [[File-Based Routing Outside of Next.JS]]
+### LLMs and Language Learnering
+- [[LLMs and L2 Acquisition - Applications and Research Topics]]
+- [[Grammar Pattern Practice Drills]]
+- [[Reading Level "Downscaling"]]
+- [[Literal vs. Natural Translations]]
+- [[Experiment - Using Readlang Sentences to Generate New Sentences]]
+- [[Asking LLMs to follow the i+1 rule of the input hypothesis]]
 ### Idea Bin
 * [[Using LLMs to Create End-User Programmable Software]]
 * [[Probability-Based Software Estimation]]
@@ -17,12 +24,4 @@ I use this as a public notebook for quick ideas or small content that does not f
  - [[300 Random Grammar Patterns]]
  - [[Passing the TOPIK via Part-Time Study]]
  - [[My Readlang Importer]]
-### LLMs and Language Learnering
-- [[LLMs and L2 Acquisition - Applications and Research Topics]]
-- [[Grammar Pattern Practice Drills]]
-- [[Reading Level "Downscaling"]]
-- [[Literal vs. Natural Translations]]
-- [[Experiment - Using Readlang Sentences to Generate New Sentences]]
-- [[Asking LLMs to follow the i+1 rule of the input hypothesis]]
-
 ![[Pasted image 20240702073356.png]]
