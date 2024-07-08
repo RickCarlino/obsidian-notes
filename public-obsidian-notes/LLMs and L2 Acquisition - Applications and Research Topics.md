@@ -6,6 +6,6 @@ My main interest in large language models lies in their ability to help students
  - [[Phrase Equivalence Detection]]
  - [[Practice Prompt Generation]]
  - [[Mnemonic Generation]]
- - [[Grammar Scoring, Correction and Error detection]]
+ - [[Grammar Scoring, Correction and Error Detection]]
  - [[Comprehension Question and Drill Generation]]
  
