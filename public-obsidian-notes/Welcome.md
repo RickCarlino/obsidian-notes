@@ -4,6 +4,7 @@ I use this as a public notebook for quick ideas or small content that does not f
 ### Interesting Articles and Research
 - [Research as Leisure Activitiy](https://www.personalcanon.com/p/research-as-leisure-activity)
 - [Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank](www.researchgate.net/publication/371606122_Improving_Reading_Comprehension_Question_Generation_with_Data_Augmentation_and_Overgenerate-and-rank)
+- [[Summary of "How to Focus"]] (DRAFT)
 ### Web Dev
 - [[File-Based Routing Outside of Next.JS]]
 ### LLMs and Language Learnering

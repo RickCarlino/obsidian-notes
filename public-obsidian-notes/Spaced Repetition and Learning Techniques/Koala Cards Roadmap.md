@@ -14,6 +14,7 @@
 - Add a "refresh" button to the final page of the "Add Cards" flow for when it doesn't come out quite right.
 - Include the card front/back when sending transcription to Whisper (might reduce transcription error rate).
 - Add a "disagreement count" column to identify problematic / confusing cards.
+- An "Ask Again" button when a response is disputed.
 ### Routine Features
  * Once there are no more cards for review, transition to "cram mode" which reviews cards in difficulty order and does typing / speaking tests with no grading.
  * Decks
