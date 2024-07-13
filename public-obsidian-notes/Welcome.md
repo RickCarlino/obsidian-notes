@@ -17,9 +17,11 @@ I use this as a public notebook for quick ideas or small content that does not f
 ### Idea Bin
 * [[Using LLMs to Create End-User Programmable Software]]
 * [[Probability-Based Software Estimation]]
+* [[Primitive Information Systems]]
 ### Koala Cards
  * [[Koala Cards Roadmap]]
 ### Korean Language Studies
+ - [[Browsable Korean Dictionary]]
  - [[300 Random Grammar Patterns]]
  - [[Passing the TOPIK via Part-Time Study]]
  - [[My Readlang Importer]]
