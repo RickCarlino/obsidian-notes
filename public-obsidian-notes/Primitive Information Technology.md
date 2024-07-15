@@ -7,7 +7,6 @@ For the sake of this article, I will refer to information technology as a tool t
 
 I'm going to use a very broad definition of "primitive" here. Anything that lacks a solid state transistor is fair game. This gives us a broad range of technologies, from things as simple as cuneiform to more advanced technologies like the telegraph.
 ### Examples
-
 [Electrical Telegraph](https://en.wikipedia.org/wiki/Electrical_telegraph)
 [Typewriter](https://en.wikipedia.org/wiki/Typewriter)
 [Microform](https://en.wikipedia.org/wiki/Microform)
