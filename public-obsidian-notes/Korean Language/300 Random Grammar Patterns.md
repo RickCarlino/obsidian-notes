@@ -59,7 +59,7 @@ A page number of 000 indicates that I didn't find it in the book (usually for gr
 53. Page 456: [[-재]]📝
 
 ### Up Next
-
+https://www.youtube.com/watch?v=rPm3mTgk_is
 page 105: [[-ㄴ 듯하다]]
 page 133: [[-느냬요]]
 page 133: [[-느니]]
