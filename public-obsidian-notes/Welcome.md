@@ -5,7 +5,6 @@ I use this as a public notebook for quick ideas or small content that does not f
 - [Research as Leisure Activitiy](https://www.personalcanon.com/p/research-as-leisure-activity)
 - [Incremental Writing](https://supermemo.guru/wiki/Incremental_writing)
 - [Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank](www.researchgate.net/publication/371606122_Improving_Reading_Comprehension_Question_Generation_with_Data_Augmentation_and_Overgenerate-and-rank)
-- [[Summary of "How to Focus"]] (DRAFT)
 - [[Primitive Information Technology]] - A collection of semiconductor-free technology of the past
 ### Web Dev
 - [[File-Based Routing Outside of Next.JS]]
@@ -20,7 +19,6 @@ I use this as a public notebook for quick ideas or small content that does not f
 - [[Experiment - LLM assisted creation of reading comprehension questions]]
 ### Idea Bin
 * [[Using LLMs to Create End-User Programmable Software]]
-* [[Probability-Based Software Estimation]]
 ### Koala Cards
  * [[Koala Cards Roadmap]]
 ### Korean Language Studies
@@ -28,4 +26,8 @@ I use this as a public notebook for quick ideas or small content that does not f
  - [[300 Random Grammar Patterns]]
  - [[Passing the TOPIK via Part-Time Study]]
  - [[My Readlang Importer]]
-![[Pasted image 20240702073356.png]]
+
+## Drafts and Incomplete Thoughts
+- [[Probability-Based Software Estimation]]
+- [[Summary of "How to Focus"]]
+- 
