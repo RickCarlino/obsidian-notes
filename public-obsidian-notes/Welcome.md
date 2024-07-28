@@ -16,6 +16,8 @@ I use this as a public notebook for quick ideas or small content that does not f
 - [[Literal vs. Natural Translations]]
 - [[Experiment - Using Readlang Sentences to Generate New Sentences]]
 - [[Asking LLMs to follow the i+1 rule of the input hypothesis]]
+- [[Summary of Henkel, Roberts, Hills, and McGrane (2023) - Can LLMs Grade Short-Answer Reading Comprehension Questions?]]
+- [[Experiment - LLM assisted creation of reading comprehension questions]]
 ### Idea Bin
 * [[Using LLMs to Create End-User Programmable Software]]
 * [[Probability-Based Software Estimation]]

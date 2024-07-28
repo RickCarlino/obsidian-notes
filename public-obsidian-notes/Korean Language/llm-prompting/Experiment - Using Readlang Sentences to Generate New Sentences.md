@@ -1,3 +1,5 @@
+Conclusion: It's close, but not quite usable.
+
 ```
 The input above is highlights from some highlighted areas in reading. I want to convert them to spaced repetition flashcards, but I need them to be complete sentences first. Please update the list so that every entry is a complete sentence. You will be penalized for long or incomplete sentences
 
