@@ -61,6 +61,7 @@ A page number of 000 indicates that I didn't find it in the book (usually for gr
 ### Up Next
 https://www.youtube.com/watch?v=rPm3mTgk_is
 page 105: [[-ㄴ 듯하다]]
+Page 000: -는 통에
 page 133: [[-느냬요]]
 page 133: [[-느니]]
 page 184: [[-다가 못해]]
