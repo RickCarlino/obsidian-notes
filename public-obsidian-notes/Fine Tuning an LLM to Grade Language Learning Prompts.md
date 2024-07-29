@@ -1,0 +1,13 @@
+ - background
+ - the task
+ - data set, training costs: ~1,200 examples cost $1.41
+	 - Original GPT-4 prompt
+	 - Manually reviewed collected data.
+	 - Two orders of magnitude cheaper due to needing fewer hints and prompt tokens.
+ - cost reduction
+ - past attempts
+ - the training data
+ - Possible issues:
+	 - Since many of my cards (~1,200) exist in the initial training set, there may be "confirmation bias" and the model might see a reduction in quality as new cards are added.
+	 - The fine tuned model is more permissive about minor grammatical issues whereas GPT-4 often rejects grammar mistakes. This might be fixable with more fine tuning but would require native speaker labeling.
+		 - Still better than self-grading via Anki, since GPT-3.5 has a better understanding of Korean than I do.
