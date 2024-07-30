@@ -62,6 +62,12 @@ A page number of 000 indicates that I didn't find it in the book (usually for gr
 
 ### Up Next
 Page 000: -마저
+"...하다 보니까"
+"는 한편"
+"는 법이다"
+"하니 만큼"
+"<명사>이라네??"
+"게끔"
 page 133: [[-느냬요]]
 page 133: [[-느니]]
 page 184: [[-다가 못해]]
