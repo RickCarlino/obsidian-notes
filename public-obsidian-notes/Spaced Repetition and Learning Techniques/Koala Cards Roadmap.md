@@ -9,6 +9,7 @@
 	- The "AGAIN" button is not  really correct in this context. Should just be a 0-4 scale of difficulty.
 #### Small Features
 - Integrate PostHog to see usage patterns and get feedback
+- Force 100% recitation of failed cards in same session.
 - Store audio in Google Cloud, not B64.
 - Always play audio back even if difficulty is not AGAIN
 - Add a "refresh" button to the final page of the "Add Cards" flow for when it doesn't come out quite right.
