@@ -26,6 +26,8 @@ I use this as a public notebook for quick ideas or small content that does not f
  - [[300 Random Grammar Patterns]]
  - [[Passing the TOPIK via Part-Time Study]]
  - [[My Readlang Importer]]
+ - [[Notes - Korean Conversations and Debating]]
+
 
 ## Drafts and Incomplete Thoughts
 - [[Probability-Based Software Estimation]]
