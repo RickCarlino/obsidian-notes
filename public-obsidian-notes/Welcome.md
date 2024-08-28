@@ -6,6 +6,7 @@ I use this as a public notebook for quick ideas or small content that does not f
 - [Incremental Writing](https://supermemo.guru/wiki/Incremental_writing)
 - [Improving Reading Comprehension Question Generation with Data Augmentation and Overgenerate-and-rank](www.researchgate.net/publication/371606122_Improving_Reading_Comprehension_Question_Generation_with_Data_Augmentation_and_Overgenerate-and-rank)
 - [[Primitive Information Technology]] - A collection of semiconductor-free technology of the past
+- [The "Testing" Phenomenon: Not Gone but Nearly Forgotten](https://gwern.net/doc/psychology/spaced-repetition/1989-glover.pdf)
 ### Web Dev
 - [[File-Based Routing Outside of Next.JS]]
 ### LLMs and Language Learnering
