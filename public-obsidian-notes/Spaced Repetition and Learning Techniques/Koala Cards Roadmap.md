@@ -37,6 +37,6 @@
  * After every correct answer, run it through a grammar correction and improvement pass. Vectorize all feedback, perform clustering, create a list of improvement goals.
  * Ability for students to link teachers or tutors to their account.
 	 * Share top N most difficult cards
-	 * Voice recording submission for pronunciation feedback
+	 * Voice recording submission to teacher for pronunciation feedback
 ### Koala Cards
  * [[Koala Cards Roadmap]]
