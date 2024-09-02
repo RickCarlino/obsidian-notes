@@ -1,5 +1,5 @@
 
-*Background: I decided to give the "10,000 Hour Rule" paper a read this weekend and did a write up to solidify my understanding of the topic.*
+*Background: I decided to give the "10,000 Hour Rule" paper a read this weekend and wrote a summary to solidify my understanding of the topic.*
 
 What truly defines an expert? This question is at the heart of a research paper that delves into becoming an expert. Contrary to popular belief, having extensive education and credentials doesn't always equate to superior decision-making or performance. The paper distinguishes between those who are recognized as experts by society and those who actually demonstrate superior performance in their domain.
 
