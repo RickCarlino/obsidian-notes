@@ -4,6 +4,7 @@
 - Changing ones mind mid recording is not possible.
 - Use GCS instead of B64 strings for Audio (Firefox memory leak)
 - Need a "Refresh" button for incorrect card illustrations, such as the card "Await the order".
+- Need a "Refresh" button for bad translations.
 - Hitting "AGAIN" on the first card of a session causes weird behavior.
 - Review UI and Learn UI are shared currently.
 	- The "AGAIN" button is not  really correct in this context. Should just be a 0-4 scale of difficulty.
@@ -40,3 +41,4 @@
 	 * Voice recording submission to teacher for pronunciation feedback
 ### Koala Cards
  * [[Koala Cards Roadmap]]
+ * 
