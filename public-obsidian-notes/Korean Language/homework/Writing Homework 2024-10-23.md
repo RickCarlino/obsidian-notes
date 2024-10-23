@@ -1,0 +1,25 @@
+- **교훈**: A moral lesson or teaching derived from an experience or story.
+- **그래야만**: Only by doing so; used to emphasize that a certain condition must be met to achieve something.
+- **극복하다**: To overcome or conquer difficulties or challenges.
+- **기르다**: To raise, cultivate, or develop something, such as skills, abilities, or even people and animals.
+- **기술되다**: To be described or recorded in detail, often in writing.
+- **단순히**: Simply or merely, without complexity or additional factors.
+- **도입**: Introduction or the initial part of something, such as an essay or concept.
+- **무조건적**: Unconditional, without limitations or reservations.
+- **민족주의적**: Nationalistic, relating to the belief in the superiority or interests of one's own nation.
+- **반성하다**: To reflect on one's actions or behavior with the intent of self-improvement or correction.
+- **방안**: A plan or method, a proposed solution or approach to solve a problem or achieve a goal.
+- **벗어나다**: To escape or break away from a certain boundary or limitation.
+- **비판적**: Critical, involving careful judgment or evaluation, often highlighting flaws.
+- **살아간다**: To live or go on with one's life, often implying the ongoing process of existence.
+- **세계화**: Globalization, the process of becoming interconnected and integrated on a worldwide scale, especially in terms of economy, culture, and communication.
+- **인식하다**: To recognize, perceive, or become aware of something.
+- **인재**: Talent or a capable person, someone with the skills and abilities needed in a particular field.
+- **전개**: Development or unfolding of a narrative, argument, or situation.
+- **전문화**: Specialization, the focus on a specific area of expertise or skill, becoming highly knowledgeable or proficient in that field.
+- **종합적**: Comprehensive, covering or involving various aspects in a thorough and inclusive manner.
+- **주관적**: Subjective, based on personal feelings, opinions, or perspectives rather than objective facts.
+- **주의하다**: To pay attention or take care to avoid mistakes or problems.
+- **참고하다**: To refer to or consult something for information or guidance.
+- **통찰력**: Insight, the ability to understand complex situations deeply and clearly.
+- **특성**: Characteristic or feature, a distinguishing quality or trait of something.
