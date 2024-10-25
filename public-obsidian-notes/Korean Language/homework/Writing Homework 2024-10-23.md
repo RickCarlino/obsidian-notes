@@ -9,6 +9,7 @@
 **자기계발**: Self-development
 **적응력**: Adaptability
 **창의성**: Creativity
+**이전보다**: than before.
 ## From the Essay
 - **교훈**: A moral lesson or teaching derived from an experience or story.
 - **그래야만**: Only by doing so; used to emphasize that a certain condition must be met to achieve something.
@@ -57,31 +58,18 @@ The only thing that doesn’t change in global affairs is that things are always
 
 # Draft III - Translate
 
-현재 사회는 더욱 연결되고 있다. 국제화와 전문화는 옜날 시절보다 중요한 것으로 변화한다. 
-This is happening because of things like more trade between countries and new technology like artificial intelligence.
-ㅣㅇ
+인터넷에서 찾았던 단어:
+* 비판적
+* 참여
+* 사회 공헌
+* (?) "인재"는 정의 2개 있는 것 같아요
+	* Talents
+	* a talented person
+시대 vs. 세대 (흔히 혼동하는 단어)
 
-Technology is changing how we live, and these changes mean people need to learn special skills to keep up.
+현재 사회는 더욱 연결되고 있다. 국제화와 전문화는 옜날 시절보다 중요한 것으로 바귄다. 그리고 국제화와 전문화를 도입하는 선택은 무두 사람에게 영향 끼친다. 이런 상황은 증가하는 국제무역과 인공지능등 새롭게 개발된 기술 때문이다. 기술은 생활 변화시키면서 적응하기 위해서 모두사람들이 새로운 지식과 습관을 얻어야 한다. 이런 변화 살펴보면 사람들은 어떤 특성이 필요한가? 어떻게 적응 할 수 있을까? 현대 사회에서 필요한 인재는 어떤 사람인가?
 
-Businesses also want to save money and work more efficiently, so they look to other countries for help.
-
-This choice affects people all around the world.
-
-When we think about these changes, we should ask: what skills do people need today? And how can they learn them?
-
-  
-
-In a fast-changing and connected world, we need skills that can adjust to new things.
-
-The most important skill is the ability to adapt.
-
-This means noticing changes and changing how you do things to keep up.
-
-While being open-minded is important, it’s also key to think carefully.
-
-In the past, we didn’t have as much information, but now, with the internet, we have more information than ever before.
-
-Not all of this information is good, so it's important to think critically and figure out what’s true.
+빠르게 변화하는 세상에서 적응하는 실력이 가장 중용한 실력이다. 변화를 알아차는 것과 개인적 습관을 바뀌었다는 것이 중요한다는 뜻이다. 그 외에는 세계적인 인터넷 시대에서 이전보다 정보가 더욱 많은데 열린 마음 있어야 하지만 정보 많기 때문에 비판적 새각하기도 중요한다. 정보는 사실인지 아닌지 결정하는 실력이 필수다. 사람들은 이전보다 더 많이 정보를 스스로 인증해야 한다. 마지막으로 문화 간 소통 능력도 중요한 특징이다. 이 새로운 "세계적인 마을"에서는 (??영어로: "New global village") 무역뿐만아니라 국제적인 협력이 필요한다.
 
 Being able to reason well helps people make smart choices in their jobs, daily life, and even in politics.
 
@@ -89,11 +77,7 @@ We could also call this the "technology age." Technology changes really fast, an
 
 Knowing how to use technology is a must for everyone today.
 
-  
-
-In a world that’s always changing, people need to act differently.
-
-Learning is the most important thing to do in this new global world.
+꾸쭌히 변화하고있는 세상에서 사람들은 다르게 생각해야 하는데 행동도 바궈야해요. 교육과 새로운 기술을 얻는 것이 중요한 습관이다. 사회에 공헌하려면 지식은 소통 능력처럼 필수적이다. 
 
 As technology changes and businesses move to new places, workers need to be flexible and learn new skills to succeed in new jobs and industries.
 
@@ -105,8 +89,6 @@ In this global village, people need to work together not just for money but also
 
 No one country or culture will lead the future on its own, so we all need to work together to make decisions and get along with our global neighbors.
 
-  
-
-The only thing that doesn’t change in global affairs is that things are always changing.
+이 세상에서 변화하지않은 것이 없다. 현대 사회에서 필요한 인재는 되려면 적응력과  
 
 To keep moving forward with globalization and specialization, people must be ready for change and welcome progress.
