@@ -1,3 +1,15 @@
+
+## Other Words
+**동기 부여**: Motivation
+**문제 해결 능력**: Problem-solving skills
+**미래 지향적**: Future-oriented
+**비판적 사고**: Critical thinking
+**세계적 감각**: Global perspective
+**윤리 의식**: Ethical awareness
+**자기계발**: Self-development
+**적응력**: Adaptability
+**창의성**: Creativity
+## From the Essay
 - **교훈**: A moral lesson or teaching derived from an experience or story.
 - **그래야만**: Only by doing so; used to emphasize that a certain condition must be met to achieve something.
 - **극복하다**: To overcome or conquer difficulties or challenges.
@@ -23,3 +35,78 @@
 - **참고하다**: To refer to or consult something for information or guidance.
 - **통찰력**: Insight, the ability to understand complex situations deeply and clearly.
 - **특성**: Characteristic or feature, a distinguishing quality or trait of something.
+
+# Draft I - Just Write
+
+Modern society has become increasingly globalized and specialized. A number of factors have led to this trend. Increased international trade, technological advancements such as artificial intelligence. Technological advancements have changed our society, and these changes in turn have required workers to learn increasingly specialized skill sets. Additionally, businesses have turned to globalization as a means of reducing costs and increasing efficiency. This decision has led to local changes on a global scale. When looking at these changes, what kind of skills and talents are needed in this new modern society? If a person wants to learn these skills, what must they do?
+
+A specialized and globalized economy requires new skills that can adapt to change. The foremost skill that anyone needs in a dynamic environment is adaptability. This skill involves identifying change and updating ones actions to account for change. Although the new times require an open mind, they also require critical thinking. Before the information age, information was scarce. In the age of the internet, members of society are presented with more information than ever before. This information is of varying quality and so a new skill, the ability to reason about information critically, has become more important than ever. Critical reasoning helps people make good decisions in work, personal life and politics. The information can also be called the technology age. Technology now changes at a pace never before seen. Computers are now a part of every aspect of our personal lives. Learning to use technology in work and personal life is a skill required of all people in modern times.
+
+A changing world requires people to change their actions. Education is the most important action to take in the new globalized economy. As new technologies and are adapted and economies shift to new locales, workers must use their adaptability to learn new skills and succeed in new industries and careers. Democratic involvement is also a critical activity for a rapidly changing world. Globalization will cause never before seen intercultural contact and turn the world into a "global village". This new community will require people to work together not only for economic reasons, but also for societal ones. No one nation or culture will own the future and the globalized economy must be one where citizens actively participate in decision making and cooperate with their economic partners.
+
+The only thing that is constant in global affairs is change. In order to continue the progress brought on by globalization and specialization, citizens must be prepare for change and embrace progress. 
+
+# Draft II - Simplify
+Modern society is becoming more connected and focused on specific skills. This is happening because of things like more trade between countries and new technology like artificial intelligence. Technology is changing how we live, and these changes mean people need to learn special skills to keep up. Businesses also want to save money and work more efficiently, so they look to other countries for help. This choice affects people all around the world. When we think about these changes, we should ask: what skills do people need today? And how can they learn them?
+
+In a fast-changing and connected world, we need skills that can adjust to new things. The most important skill is the ability to adapt. This means noticing changes and changing how you do things to keep up. While being open-minded is important, it’s also key to think carefully. In the past, we didn’t have as much information, but now, with the internet, we have more information than ever before. Not all of this information is good, so it's important to think critically and figure out what’s true. Being able to reason well helps people make smart choices in their jobs, daily life, and even in politics. We could also call this the "technology age." Technology changes really fast, and computers are now a big part of our lives. Knowing how to use technology is a must for everyone today.
+
+In a world that’s always changing, people need to act differently. Learning is the most important thing to do in this new global world. As technology changes and businesses move to new places, workers need to be flexible and learn new skills to succeed in new jobs and industries. Being involved in your community and government is also really important in a world that’s changing fast. Globalization means more contact between different cultures, and the world is becoming like a big village. In this global village, people need to work together not just for money but also for the good of society. No one country or culture will lead the future on its own, so we all need to work together to make decisions and get along with our global neighbors.
+
+The only thing that doesn’t change in global affairs is that things are always changing. To keep moving forward with globalization and specialization, people must be ready for change and welcome progress.
+
+# Draft III - Translate
+
+현재 사회는 더욱 연결되고 있다. 국제화와 전문화는 옜날 시절보다 중요한 것으로 변화한다. 
+This is happening because of things like more trade between countries and new technology like artificial intelligence.
+ㅣㅇ
+
+Technology is changing how we live, and these changes mean people need to learn special skills to keep up.
+
+Businesses also want to save money and work more efficiently, so they look to other countries for help.
+
+This choice affects people all around the world.
+
+When we think about these changes, we should ask: what skills do people need today? And how can they learn them?
+
+  
+
+In a fast-changing and connected world, we need skills that can adjust to new things.
+
+The most important skill is the ability to adapt.
+
+This means noticing changes and changing how you do things to keep up.
+
+While being open-minded is important, it’s also key to think carefully.
+
+In the past, we didn’t have as much information, but now, with the internet, we have more information than ever before.
+
+Not all of this information is good, so it's important to think critically and figure out what’s true.
+
+Being able to reason well helps people make smart choices in their jobs, daily life, and even in politics.
+
+We could also call this the "technology age." Technology changes really fast, and computers are now a big part of our lives.
+
+Knowing how to use technology is a must for everyone today.
+
+  
+
+In a world that’s always changing, people need to act differently.
+
+Learning is the most important thing to do in this new global world.
+
+As technology changes and businesses move to new places, workers need to be flexible and learn new skills to succeed in new jobs and industries.
+
+Being involved in your community and government is also really important in a world that’s changing fast.
+
+Globalization means more contact between different cultures, and the world is becoming like a big village.
+
+In this global village, people need to work together not just for money but also for the good of society.
+
+No one country or culture will lead the future on its own, so we all need to work together to make decisions and get along with our global neighbors.
+
+  
+
+The only thing that doesn’t change in global affairs is that things are always changing.
+
+To keep moving forward with globalization and specialization, people must be ready for change and welcome progress.
