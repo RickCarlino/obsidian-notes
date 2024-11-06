@@ -23,5 +23,8 @@ Interesting tidbit from [the part on CoT prompting](https://www.promptingguide.a
 **Prompt Chaining** - Common use of multi-step prompts. [Anthropic docs.](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-prompts)
 
 - [ ] Try a [tree of thought prompt](https://www.promptingguide.ai/techniques/tot). Docs were not deep enough.
+- [ ] What is "Named entity recognition"?
+- [ ] Find some real world uses of ReAct prompting
+	- [ ] Look into AlfWorld ReAct examples
 
-[Stopped here](https://www.promptingguide.ai/techniques/rag)
+[Stopped here](https://www.promptingguide.ai/applications/finetuning-gpt4o)
