@@ -12,4 +12,16 @@ Re-visiting PromptingGuide.AI since it had a bunch of updates since the last tim
 
 **Few-shot pro-tip** - Selecting random labels from a true distribution of labels (instead of a uniform distribution) also helps.
 
-[Stopped here](https://www.promptingguide.ai/techniques/cot)
+Interesting tidbit from [the part on CoT prompting](https://www.promptingguide.ai/techniques/cot):
+
+> "...the authors claim that this is an emergent ability that arises with sufficiently large language models."
+
+**Meta-prompting** - Similar to CoT prompting but the focus is on the structure of the prompt language rather than examples.
+
+- [ ] Try building an example sentence generator with meta prompting.
+
+**Prompt Chaining** - Common use of multi-step prompts. [Anthropic docs.](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/chain-prompts)
+
+- [ ] Try a [tree of thought prompt](https://www.promptingguide.ai/techniques/tot). Docs were not deep enough.
+
+[Stopped here](https://www.promptingguide.ai/techniques/rag)
