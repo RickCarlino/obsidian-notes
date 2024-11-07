@@ -27,4 +27,21 @@ Interesting tidbit from [the part on CoT prompting](https://www.promptingguide.a
 - [ ] Find some real world uses of ReAct prompting
 	- [ ] Look into AlfWorld ReAct examples
 
-[Stopped here](https://www.promptingguide.ai/applications/finetuning-gpt4o)
+- [ ] Implement context caching in all Koala prompts.
+- [ ] Read [the papers presented in the page about data generation](https://www.promptingguide.ai/applications/generating_textbooks). Use GPT to summarize if needed.
+```
+To tackle the diversity issue, the authors prepared a vocabulary of around 1500 basic words, mirroring a typical child's vocabulary, divided into nouns, verbs, and adjectives. In each generation, one verb, one noun, and one adjective were randomly selected. The model then generates a story integrating these random words.
+```
+
+```
+Write a short story (3-5 paragraphs) which only uses very simple words that a 3 year old child would likely understand. The story should use the verb ”{random.choice(verbs_list)}”, the noun ”{random.choice(nouns_list)}” and the adjective ”{random.choice(adjectives_list)}”. The story should have the following features: {random.choice(features_list)}, {random.choice(features_list)}. Remember to only use simple words!
+```
+- [ ] Try this for sentence generation :point_up:
+
+```
+주제: {주제 입력}
+
+말투: {말투 입력} (예: 격식체, 비격식체, 구어체, 문어체 등)
+
+위의 주제에 대해 {말투}로 한 단락의 짧은 글을 작성해주세요. 이 글은 한국어 학습자를 위한 읽기 자료입니다.
+```
