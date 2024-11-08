@@ -36,7 +36,7 @@ To tackle the diversity issue, the authors prepared a vocabulary of around 1500 
 ```
 Write a short story (3-5 paragraphs) which only uses very simple words that a 3 year old child would likely understand. The story should use the verb ”{random.choice(verbs_list)}”, the noun ”{random.choice(nouns_list)}” and the adjective ”{random.choice(adjectives_list)}”. The story should have the following features: {random.choice(features_list)}, {random.choice(features_list)}. Remember to only use simple words!
 ```
-- [ ] Try this for sentence generation :point_up:
+- [x] Try this for sentence generation :point_up:
 
 ```
 주제: {주제 입력}
@@ -45,3 +45,28 @@ Write a short story (3-5 paragraphs) which only uses very simple words that a 3 
 
 위의 주제에 대해 {말투}로 한 단락의 짧은 글을 작성해주세요. 이 글은 한국어 학습자를 위한 읽기 자료입니다.
 ```
+```
+{
+    "환경 보전": "격식체",
+    "인공지능": "비격식체",
+    "우정": "구어체",
+    "우주 탐사": "문어체",
+    "건강한 식습관": "일상체",
+    "문화적 다양성": "격식체",
+    "교육에서의 기술": "비격식체",
+    "기후 변화": "과학체",
+    "해외 여행": "비격식체",
+    "독서의 중요성": "문어체",
+    "운동과 체력": "일상체",
+    "사이버 보안": "격식체",
+    "마음챙김과 명상": "비격식체",
+    "소셜 미디어의 영향": "구어체",
+    "예술의 역사": "문어체",
+    "자원 봉사": "격식체",
+    "디지털 노마드 라이프스타일": "일상체",
+    "재무 지식": "비격식체",
+    "리더십 기술": "격식체",
+    "도시화": "과학체"
+}
+```
+[[Experimental prompt output]]
