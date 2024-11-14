@@ -9,9 +9,12 @@ publish: "false"
  - [ ] HN Summary script
 ## On Rotation
 
- - Kimchi reader vocab list pruning
- - HT Voice Room
  - Koala
+ - Kimchi reader vocab list pruning
+ - Readlang
+ - HT Voice Room
  - Essay writing
  - Textbook Reading
+ - Stretch
+ - Dual N Back
  
