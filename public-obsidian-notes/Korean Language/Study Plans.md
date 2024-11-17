@@ -6,7 +6,7 @@ publish: "false"
  - [ ] Register for TOPIK in January
  - [ ] Complete "찰떡 한국어"
  - [ ] Complete "Korean Grammar in Use"
- - [ ] HN Summary script
+ - [ ] HN news (use Algolia) Summary + script
 ## On Rotation
 
  - Koala
