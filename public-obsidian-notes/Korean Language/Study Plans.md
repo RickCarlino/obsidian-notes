@@ -7,17 +7,20 @@ publish: "false"
  - [ ] Complete "찰떡 한국어"
  - [ ] Complete "Korean Grammar in Use"
  - [ ] HN news (use Algolia) Summary + script
+ - [ ] Homework for Korean class (!!) Only two days!
 ## On Rotation
 
- - Kimchi reader vocab list pruning
  - Readlang
- - HT Voice Room
  - Essay writing
  - Textbook Reading
- - Dual N Back
  - Career dev
- - Koala
  - Stretch
+ - HT Voice Room
+ - Dual N Back
+ - Use Koala
+ - Kimchi reader vocab list pruning
+ - Kimchi Reader YT Dev tuts
+ - Koala long-term feature backlog
 # Homework
 ※ [1~34] ( )에 들어갈 가장 알맞은 것을 고르십시오.
 
