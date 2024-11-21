@@ -5,6 +5,9 @@
 - Add notes
 	- Make similar cards
 	- Refresh definition
+	- Double check card meaning/definition
+	- Change tense
+	- 
 - Force 100% recitation of failed cards in same session.
 - Add a "refresh" button to the final page of the "Add Cards" flow for when it doesn't come out quite right.
 - Include the card front/back when sending transcription to Whisper (might reduce transcription error rate).
