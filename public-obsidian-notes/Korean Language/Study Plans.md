@@ -14,10 +14,10 @@ publish: "false"
  - HT Voice Room
  - Essay writing
  - Textbook Reading
- - Stretch
  - Dual N Back
  - Career dev
  - Koala
+ - Stretch
 # Homework
 ※ [1~34] ( )에 들어갈 가장 알맞은 것을 고르십시오.
 
