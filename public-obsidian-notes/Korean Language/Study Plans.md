@@ -15,9 +15,9 @@ publish: "false"
  - YT as a textbook (YT -> Kimchi -> Readlang -> Koala)
 ## On Rotation
 
+ - Teach Mario stuff
  - Readlang
  - Textbook Reading
- - Career plan work
  - Koala-based career dev (tests, refactors, tools)
  - Stretch
  - HT Voice Room
@@ -26,6 +26,7 @@ publish: "false"
  - Kimchi reader vocab list pruning
  - Kimchi Reader YT Dev tuts
  - Koala long-term feature backlog
+ - Career plan work
 
 ## Idea
  - Watch dev tut at 0.5x on Kimchi
