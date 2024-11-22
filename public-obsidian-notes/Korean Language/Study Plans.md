@@ -13,21 +13,23 @@ publish: "false"
 
  - Essay writing
  - YT as a textbook (YT -> Kimchi -> Readlang -> Koala)
-## On Rotation
+## On Rotation - Low Focus
+- Teach Mario stuff
+ - Kimchi reader vocab list pruning
+ - Koala long-term feature backlog
+ - Career plan work
+ - Stretch
 
- - Teach Mario stuff
+## On Rotation - High Focus
+
  - Readlang
  - Textbook Reading
  - Koala-based career dev (tests, refactors, tools)
- - Stretch
  - HT Voice Room
  - Dual N Back
  - Use Koala
- - Kimchi reader vocab list pruning
  - Kimchi Reader YT Dev tuts
- - Koala long-term feature backlog
- - Career plan work
-
+ 
 ## Idea
  - Watch dev tut at 0.5x on Kimchi
  - Read in Readlang, ask questions
