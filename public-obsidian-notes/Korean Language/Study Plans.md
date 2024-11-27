@@ -26,7 +26,7 @@ publish: "false"
  - HT Voice Room
  - Dual N Back
  - Use Koala
- - Kimchi Reader YT Dev tuts, [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
+ - Watch YT Dev tuts on Kimchi Reader, [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
  - Textbook Reading
  -  Koala-based career dev (tests, refactors, tools)
 ## Idea
