@@ -19,7 +19,7 @@ publish: "false"
  - Koala long-term feature backlog
  - Career plan work
  - Stretch
- - - Teach Mario stuff
+ - Teach Mario stuff
 
 ## On Rotation - High Focus
 
