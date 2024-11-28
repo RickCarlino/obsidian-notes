@@ -14,11 +14,12 @@ publish: "false"
  - Essay writing
  - YT as a textbook (YT -> Kimchi -> Readlang -> Koala)
 ## On Rotation - Low Focus
-- Teach Mario stuff
+- Year-in-review prep
  - Kimchi reader vocab list pruning
  - Koala long-term feature backlog
  - Career plan work
  - Stretch
+ - - Teach Mario stuff
 
 ## On Rotation - High Focus
 
