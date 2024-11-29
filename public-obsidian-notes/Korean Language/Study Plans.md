@@ -13,13 +13,23 @@ publish: "false"
 
  - Essay writing
  - YT as a textbook (YT -> Kimchi -> Readlang -> Koala)
+
+#### Looking at 2023 Goals
+
+#### Continuing Korean Studies
+Write a paragraph in Korean about all my Korean language studies.
+#### KoalaSRS Progress
+### January 2024
+  - Not much, huge storm, keeping chickens
+  - The month was basically a long COVID infection, a blizzard and the Worth national death march project.
+  - Registered for TOPIK, Hanijemi Korean class, iTalki tutoring
 ## On Rotation - Low Focus
-- Year-in-review prep
- - Kimchi reader vocab list pruning
  - Koala long-term feature backlog
  - Career plan work
- - Stretch
  - Teach Mario stuff
+ - Stretch
+ - Year-in-review prep
+ - - Kimchi reader vocab list pruning
 
 ## On Rotation - High Focus
 
