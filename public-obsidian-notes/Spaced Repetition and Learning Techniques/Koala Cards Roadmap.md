@@ -13,6 +13,7 @@
 - Include the card front/back when sending transcription to Whisper (might reduce transcription error rate).
 ### Experiments
 
+ - Hire someone to label data for fine tuning (SEE: Soomgo)
  - On the final page, create a "Download Summary" button that creates a downloadable HTML file that can be emailed to tutors.
 	 - Bigger experiment: Auto-expiring review summary page
  - Replace Google Cloud TTS with [Replicate/xTTS](https://replicate.com/lucataco/xtts-v2)
