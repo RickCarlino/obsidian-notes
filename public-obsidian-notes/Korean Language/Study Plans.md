@@ -25,11 +25,11 @@ Write a paragraph in Korean about all my Korean language studies.
   - Registered for TOPIK, Hanijemi Korean class, iTalki tutoring
 ## On Rotation - Low Focus
  - Career plan work
- - Stretch
  - Year-in-review prep
  - Kimchi reader vocab list pruning
 - Koala long-term feature backlog
 - Teach Mario stuff
+- Stretch
 ## On Rotation - High Focus
 
  - HT Voice Room
