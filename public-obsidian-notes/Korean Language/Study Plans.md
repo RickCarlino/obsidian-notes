@@ -24,22 +24,21 @@ Write a paragraph in Korean about all my Korean language studies.
   - The month was basically a long COVID infection, a blizzard and the Worth national death march project.
   - Registered for TOPIK, Hanijemi Korean class, iTalki tutoring
 ## On Rotation - Low Focus
- - Koala long-term feature backlog
  - Career plan work
- - Teach Mario stuff
  - Stretch
  - Year-in-review prep
- - - Kimchi reader vocab list pruning
-
+ - Kimchi reader vocab list pruning
+- Koala long-term feature backlog
+- Teach Mario stuff
 ## On Rotation - High Focus
 
- - Readlang
  - HT Voice Room
  - Dual N Back
- - Use Koala
  - Watch YT Dev tuts on Kimchi Reader, [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
  - Textbook Reading
  -  Koala-based career dev (tests, refactors, tools)
+ - Readlang
+ - Use Koala
 ## Idea
  - Watch dev tut at 0.5x on Kimchi
  - Read in Readlang, ask questions
