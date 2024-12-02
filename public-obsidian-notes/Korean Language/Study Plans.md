@@ -19,6 +19,17 @@ publish: "false"
 #### Continuing Korean Studies
 Write a paragraph in Korean about all my Korean language studies.
 #### KoalaSRS Progress
+
+#### February 2024
+
+ - Gave a talk at Fox.Build AI night
+ - Birthday
+ - Emily play
+ - Port FSRS to TS / New scheduler
+ - Toy SRS app
+ - Learned about k-means clustering / vector embeddings
+ - First email conversation with a Koala user
+ - 
 ### January 2024
   - Not much, huge storm, keeping chickens
   - The month was basically a long COVID infection, a blizzard and the Worth national death march project.
@@ -27,7 +38,7 @@ Write a paragraph in Korean about all my Korean language studies.
  - Career plan work
  - Year-in-review prep
  - Kimchi reader vocab list pruning
-- Koala long-term feature backlog
+ - Koala long-term feature backlog
 - Teach Mario stuff
 - Stretch
 ## On Rotation - High Focus
@@ -35,8 +46,8 @@ Write a paragraph in Korean about all my Korean language studies.
  - HT Voice Room
  - Dual N Back
  - Watch YT Dev tuts on Kimchi Reader, [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
- - Textbook Reading
- -  Koala-based career dev (tests, refactors, tools)
+ - Textbook Reading / Korean class homework
+ - Koala-based career dev (tests, refactors, tools)
  - Readlang
  - Use Koala
 ## Idea
