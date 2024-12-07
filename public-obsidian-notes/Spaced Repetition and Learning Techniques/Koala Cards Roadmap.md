@@ -36,6 +36,8 @@
 
  * [[Situation and Goal Language Drills]]
 - Vectorize all feedback, perform clustering, create a list of improvement goals.
+- Add a Beeminder integration
+- Dual-N-Back paragraph comprehension exercise
  * Ability for students to link teachers or tutors to their account.
 	 * Share top N most difficult cards
 	 * Voice recording submission to teacher for pronunciation feedback
