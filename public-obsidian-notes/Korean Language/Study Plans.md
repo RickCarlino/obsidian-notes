@@ -41,20 +41,20 @@ Write a paragraph in Korean about all my Korean language studies.
 ## On Rotation - Low Focus
  - Kimchi reader vocab list pruning
  - Koala long-term feature backlog
-- Teach Mario stuff
-- Stretch
+ - Stretch
  - Year-in-review prep
  - Career plan work
+ - Teach Mario stuff
 ## On Rotation - High Focus
 
  - HT Voice Room
  - Watch YT Dev tuts on Kimchi Reader, [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
- - Textbook Reading / Korean class homework
  - Koala-based career dev (tests, refactors, tools)
  - Readlang
- - Use Koala
  - Dual N Back
- 
+ -  Use Koala
+ - Textbook Reading / Korean class homework
+
 ## Idea
  - Watch dev tut at 0.5x on Kimchi
  - Read in Readlang, ask questions
