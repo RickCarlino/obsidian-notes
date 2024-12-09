@@ -48,12 +48,12 @@ Write a paragraph in Korean about all my Korean language studies.
 ## On Rotation - High Focus
 
  - HT Voice Room
- - Watch YT Dev tuts on Kimchi Reader, [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
  - Koala-based career dev (tests, refactors, tools)
  - Readlang
  - Dual N Back
  -  Use Koala
  - Textbook Reading / Korean class homework
+ - Use Kimchi Reader => Web or YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
 
 ## Idea
  - Watch dev tut at 0.5x on Kimchi
