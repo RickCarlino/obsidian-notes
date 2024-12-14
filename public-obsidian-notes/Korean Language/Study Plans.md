@@ -47,13 +47,13 @@ Write a paragraph in Korean about all my Korean language studies.
  - Teach Mario stuff
 ## On Rotation - High Focus
 
- - HT Voice Room
  - Koala-based career dev (tests, refactors, tools)
  - Readlang
  - Dual N Back
  -  Use Koala
  - Textbook Reading / Korean class homework
  - Use Kimchi Reader => Web or YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
+ - HT Voice Room
 
 ## Idea
  - Watch dev tut at 0.5x on Kimchi
