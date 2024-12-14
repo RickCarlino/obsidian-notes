@@ -40,7 +40,7 @@ Write a paragraph in Korean about all my Korean language studies.
   - Registered for TOPIK, Hanijemi Korean class, iTalki tutoring
 ## On Rotation - Low Focus
  - Kimchi reader vocab list pruning
- - Koala long-term feature backlog
+ - Koala long-term feature backlog (Current: curated content)
  - Stretch
  - Year-in-review prep
  - Career plan work
