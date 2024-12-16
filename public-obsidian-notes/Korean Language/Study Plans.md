@@ -39,12 +39,12 @@ Write a paragraph in Korean about all my Korean language studies.
   - The month was basically a long COVID infection, a blizzard and the Worth national death march project.
   - Registered for TOPIK, Hanijemi Korean class, iTalki tutoring
 ## On Rotation - Low Focus
- - Kimchi reader vocab list pruning
  - Koala long-term feature backlog (Current: curated content)
  - Stretch
  - Year-in-review prep
  - Career plan work
  - Teach Mario stuff
+ - (15 dec) Kimchi reader vocab list pruning (Continuing [[Tangible Noun Vocab List]] for after grammar list in class)
 ## On Rotation - High Focus
 
  - Use Kimchi Reader => YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
