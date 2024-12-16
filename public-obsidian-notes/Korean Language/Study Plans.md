@@ -47,15 +47,16 @@ Write a paragraph in Korean about all my Korean language studies.
  - (15 dec) Kimchi reader vocab list pruning (Continuing [[Tangible Noun Vocab List]] for after grammar list in class)
 ## On Rotation - High Focus
 
- - Use Kimchi Reader => YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
  - HT Voice Room
  - (15 dec) Koala-based career dev (tests, refactors, tools)
- - Use Koala
  - Readlang OR Kimchi Reader reading ([Current](https://nextjs-ko.org/docs/getting-started/installation))
  - Dual N Back
  - Textbook Reading / Korean class homework
+ - Use Kimchi Reader => YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
+ - Use Koala
 
 ## Idea
  - Watch dev tut at 0.5x on Kimchi
  - Read in Readlang, ask questions
  - Re-watch a few times or loop on long run
+
