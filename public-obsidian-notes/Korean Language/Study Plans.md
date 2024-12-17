@@ -49,11 +49,11 @@ Write a paragraph in Korean about all my Korean language studies.
 
  - (15 dec) Koala-based career dev (tests, refactors, tools)
  - Readlang OR Kimchi Reader reading ([Current](https://nextjs-ko.org/docs/getting-started/installation))
- - Dual N Back
  - Textbook Reading / Korean class homework
  - Use Kimchi Reader => YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
  - Use Koala
  - HT Voice Room
+ - (16 dec) Dual N Back
 
 ## Idea
  - Watch dev tut at 0.5x on Kimchi
