@@ -1,7 +1,7 @@
 ---
 publish: "false"
 ---
-
+cd
 - [x] Complete 5 more iTalki sessions
 - [x] Homework for Korean class (!!) Only two days!
  - [ ] Register for TOPIK in January
