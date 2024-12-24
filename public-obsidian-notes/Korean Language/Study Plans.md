@@ -13,6 +13,7 @@ publish: "false"
 
  - Essay writing
  - YT as a textbook (YT -> Kimchi -> Readlang -> Koala)
+ - Occulus time
 
 #### Looking at 2023 Goals
 
@@ -25,7 +26,6 @@ Write a paragraph in Korean about all my Korean language studies.
 - TODO Look at release notes / PRs
 
 #### February 2024
-
  - Gave a talk at Fox.Build AI night
  - OBS Live stream OpenSCAD
  - Birthday
@@ -39,23 +39,24 @@ Write a paragraph in Korean about all my Korean language studies.
   - The month was basically a long COVID infection, a blizzard and the Worth national death march project.
   - Registered for TOPIK, Hanijemi Korean class, iTalki tutoring
 ## On Rotation - Low Focus
- - Koala long-term feature backlog (Current: curated content)
  - Year-in-review prep
  - Career plan work
  - Teach Mario stuff
  - (15 dec) Kimchi reader vocab list pruning (Continuing [[Tangible Noun Vocab List]] for after grammar list in class)
  - Stretch
+ - (22 DEC) Koala long-term feature backlog (Current: curated content)
 ## On Rotation - High Focus
 
- - (15 dec) Koala-based career dev (tests, refactors, tools)
  - Readlang OR Kimchi Reader reading ([Current](https://nextjs-ko.org/docs/getting-started/installation))
  - Textbook Reading / Korean class homework
  - Use Kimchi Reader => YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
  - Use Koala
  - HT Voice Room
- - (16 dec) Dual N Back
+ - Dual N Back
+ - (22 DEC) Koala-based career dev (tests, refactors, tools)
 
 ## Idea
+
  - Watch dev tut at 0.5x on Kimchi
  - Read in Readlang, ask questions
  - Re-watch a few times or loop on long run
