@@ -24,9 +24,13 @@ Write a paragraph in Korean about all my Korean language studies.
 - Switch from SM-2 to FSRS
 - Add multi-lingual support
 - TODO Look at release notes / PRs
-
+- Added decks feature
+#### March 2024
+- STOPPED HERE
 #### February 2024
  - Gave a talk at Fox.Build AI night
+ - Tornado
+ - Watch Dune with fam
  - OBS Live stream OpenSCAD
  - Birthday
  - Emily play
@@ -39,18 +43,17 @@ Write a paragraph in Korean about all my Korean language studies.
   - The month was basically a long COVID infection, a blizzard and the Worth national death march project.
   - Registered for TOPIK, Hanijemi Korean class, iTalki tutoring
 ## On Rotation - Low Focus
- - Year-in-review prep
- - Career plan work
- - Teach Mario stuff
- - (15 dec) Kimchi reader vocab list pruning (Continuing [[Tangible Noun Vocab List]] for after grammar list in class)
+ - Teach Mario stuff (button callback)
+ - Kimchi reader vocab list pruning (Continuing [[Tangible Noun Vocab List]] for after grammar list in class)
  - Stretch
  - (22 DEC) Koala long-term feature backlog (Current: curated content)
+ -  Year-in-review prep
+ - Career plan work
 ## On Rotation - High Focus
 
  - Readlang OR Kimchi Reader reading ([Current](https://nextjs-ko.org/docs/getting-started/installation))
  - Textbook Reading / Korean class homework
  - Use Kimchi Reader => YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
- - Use Koala
  - HT Voice Room
  - Dual N Back
  - (22 DEC) Koala-based career dev (tests, refactors, tools)
