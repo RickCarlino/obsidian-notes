@@ -1,7 +1,22 @@
 ---
 publish: "false"
 ---
-cd
+## On Rotation - Low Focus
+ - Teach Mario stuff (button callback)
+ - Kimchi reader vocab list pruning (Continuing [[Tangible Noun Vocab List]] for after grammar list in class)
+ - (22 DEC) Koala long-term feature backlog (Current: curated content)
+ -  Year-in-review prep
+ - Career plan work
+ - Stretch
+## On Rotation - High Focus
+
+ - Readlang OR Kimchi Reader reading ([Current](https://nextjs-ko.org/docs/getting-started/installation))
+ - Textbook Reading / Korean class homework
+ - Use Kimchi Reader => YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
+ - HT Voice Room
+ - Dual N Back
+ - (22 DEC) Koala-based career dev (tests, refactors, tools)
+
 - [x] Complete 5 more iTalki sessions
 - [x] Homework for Korean class (!!) Only two days!
  - [ ] Register for TOPIK in January
@@ -42,22 +57,6 @@ Write a paragraph in Korean about all my Korean language studies.
   - Not much, huge storm, keeping chickens
   - The month was basically a long COVID infection, a blizzard and the Worth national death march project.
   - Registered for TOPIK, Hanijemi Korean class, iTalki tutoring
-## On Rotation - Low Focus
- - Teach Mario stuff (button callback)
- - Kimchi reader vocab list pruning (Continuing [[Tangible Noun Vocab List]] for after grammar list in class)
- - Stretch
- - (22 DEC) Koala long-term feature backlog (Current: curated content)
- -  Year-in-review prep
- - Career plan work
-## On Rotation - High Focus
-
- - Readlang OR Kimchi Reader reading ([Current](https://nextjs-ko.org/docs/getting-started/installation))
- - Textbook Reading / Korean class homework
- - Use Kimchi Reader => YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
- - HT Voice Room
- - Dual N Back
- - (22 DEC) Koala-based career dev (tests, refactors, tools)
-
 ## Idea
 
  - Watch dev tut at 0.5x on Kimchi
