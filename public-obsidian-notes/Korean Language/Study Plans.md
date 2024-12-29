@@ -8,14 +8,17 @@ publish: "false"
  -  Year-in-review prep
  - Career plan work
  - Stretch
+
+[[Scratchpad]]
+
 ## On Rotation - High Focus
 
  - Readlang OR Kimchi Reader reading ([Current](https://nextjs-ko.org/docs/getting-started/installation))
- - Textbook Reading / Korean class homework
  - Use Kimchi Reader => YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
  - HT Voice Room
  - Dual N Back
  - (22 DEC) Koala-based career dev (tests, refactors, tools)
+ - Textbook Reading / Korean class homework
 
 - [x] Complete 5 more iTalki sessions
 - [x] Homework for Korean class (!!) Only two days!
