@@ -1,92 +1,452 @@
-# Filter Prompt
+This list is a curated collection of nouns from the Kimchi Reader Intermediate Frequency List.
 
-Go through this list and find "concrete" nouns. What I mean by that is nouns that represent real things you could touch (objects). Ignore any word that is not a physical object. 
-
-Output the list so that it only contains physical objects, along with its English definition.
-Follow the format exactly and don't add notes or parenthesized justifications about physicality.
-I am going to paste the results into my flashcard app so the important thing is the word and a clear definition.
-
-Example:
-
-모자 - A hat
-
-# Full List
-
-연출, 연탄, 연합, 열기, 열매, 열중, 열째, 염색, 영양, 영업, 영웅, 영원, 영향, 예감, 예고, 예금, 예방, 예보, 예비, 예산, 예상, 예선, 예외, 예의, 예절, 오락, 오랜, 오염, 오직, 오해, 온갖, 온몸, 온천, 온통, 완성, 완전, 왕복, 왠지, 외과, 외교, 외면, 외모, 외박, 외부, 왼발, 왼편, 요가, 요약, 요인, 욕망, 욕실, 욕심, 용건, 용기, 용도, 용돈, 용서, 용어, 용품, 우려, 우물, 우수, 우승, 우연, 우울, 우정, 우편, 운반, 운영, 운행, 워낙, 원룸, 원리, 원서, 원인, 원칙, 월말, 월세, 위기, 위로, 위반, 위층, 위협, 유교, 유도, 유럽, 유료, 유물, 유산, 유일, 유적, 유지, 유통, 유형, 유혹, 육군, 육지, 육체, 으악, 은혜, 음력, 음반, 음성, 음주, 응원, 의논, 의류, 의무, 의문, 의복, 의상, 의식, 의심, 의외, 의존, 의지, 이내, 이념, 이달, 이만, 이민, 이발, 이별, 이성, 이어, 이왕, 이익, 이자, 이하, 이혼, 인격, 인력, 인류, 인물, 인상, 인쇄, 인식, 인연, 인용, 인원, 인재, 인정, 인체, 인하, 일대, 일등, 일상, 일생, 일손, 일시, 일쑤, 일종, 일체, 일출, 일치, 읽기, 임금, 임무, 임시, 임신, 입국, 입금, 입대, 입력, 입맛, 자격, 자극, 자기, 자녀, 자료, 자매, 자본, 자세, 자원, 작곡, 작문, 작용, 잔돈, 잠옷, 장가, 장관, 장남, 장래, 장르, 장모, 장사, 장수, 장식, 장애, 재능, 재산, 재생, 재수, 재주, 재킷, 재판, 재학, 저급, 저리, 저울, 저자, 저장, 저축, 적극, 적성, 적응, 적자, 전개, 전국, 전날, 전달, 전문, 전설, 전세, 전시, 전용, 전원, 전자, 전제, 전통, 전후, 절대, 절망, 절약, 젊음, 점검, 점원, 점차, 점퍼, 접근, 접속, 접수, 접촉, 정기, 정당, 정면, 정부, 정상, 정성, 정식, 정오, 정의, 정작, 정장, 정지, 정직, 정착, 정책, 정치, 제거, 제공, 제도, 제때, 제법, 제사, 제시, 제외, 제자, 제작, 제출, 제한, 조건, 조기, 조깅, 조끼, 조림, 조명, 조사, 조상, 조언, 조작, 조절, 조정, 조화, 존경, 존중, 졸음, 종교, 종일, 종합, 좌석, 좌우, 주름, 주먹, 주목, 주민, 주방, 주식, 주요, 주의, 주장, 주택, 죽음, 줄곧, 줄기, 중고, 중급, 중독, 중부, 중순, 중식, 즉석, 즉시, 증가, 증명, 증세, 지급, 지능, 지불, 지붕, 지시, 지위, 지적, 지정, 지진, 지출, 지퍼, 지폐, 지혜, 직선, 직진, 직후, 진단, 진동, 진로, 진리, 진술, 진실, 진찰, 진출, 진학, 질병, 질서, 질투, 짐승, 짐작, 집단, 집세, 집안, 집중, 짝수, 짠맛, 찜질, 차도, 차량, 차로, 차마, 차별, 차비, 차선, 차차, 차창, 차츰, 착각, 찬성, 참가, 참고, 참석, 참조, 창가, 창고, 창구, 창밖, 창작, 창조, 창피, 채택, 책임, 처녀, 처방, 처벌, 천국, 천둥, 천사, 천장, 천재, 철도, 첫눈, 청혼, 체계, 체면, 체온, 체조, 체중, 체험, 초급, 초록, 초보, 초봄, 초점, 초조, 초청, 총리, 최대, 최소, 최저, 최초, 추억, 추위, 추진, 추천, 추측, 축소, 축제, 출국, 출산, 출연, 출판, 출현, 충격, 충고, 충돌, 취업, 취재, 취향, 측면, 치수, 치즈, 친딸, 친정, 침묵, 커트, 커튼, 코너, 코트, 코피, 콘도, 쿨쿨, 크림, 큰길, 큰돈, 큰딸, 큰일, 큰집, 키스, 타인, 탄생, 탑승, 태양, 터널, 토론, 토의, 통계, 통과, 통신, 통역, 통일, 통증, 통행, 퇴직, 투표, 특기, 특성, 특수, 특정, 파괴, 파도, 파랑, 파마, 판단, 판사, 패션, 팬티, 편견, 편식, 편의, 편히, 평균, 평등, 평화, 폐지, 포기, 포크, 폭력, 폭발, 폭설, 폭우, 폭포, 표면, 표시, 표준, 표지, 품질, 풍선, 풍속, 풍습, 피로, 피서, 피해, 필기, 핑계, 하긴, 하도, 하양, 하차, 하품, 하하, 학력, 학문, 학비, 학자, 한결, 한계, 한낮, 한눈, 한둘, 한때, 한문, 한자, 한쪽, 한참, 한창, 한층, 한편, 합격, 합계, 합의, 항의, 해당, 해물, 해방, 해석, 해설, 해소, 해안, 햇볕, 햇살, 행운, 행위, 행정, 향기, 향상, 향수, 허가, 허용, 허허, 현관, 현대, 현상, 현실, 협력, 협조, 형님, 형성, 형편, 혜택, 호감, 호두, 호박, 호실, 호흡, 홀수, 홍수, 화장, 화재, 화제, 화폐, 확대, 확보, 확산, 확신, 확장, 환불, 환상, 환율, 활기, 활용, 활짝, 회담, 회복, 회비, 회식, 회화, 횟수, 효도, 효자, 후보, 후식, 후추, 후회, 휴대, 휴식, 휴학, 흉내, 흑백, 흔적, 흡수, 흥미, 흥분, 희생, 힘껏, 경제력, 경제적, 경찰관, 계산기, 계산대, 계약금, 고구마, 곧바로, 곧이어, 골목길, 공과금, 공동체, 공연장, 공통점, 과소비, 과학자, 과학적, 관계자, 관람객, 괴로움, 교육비, 교육자, 교통편, 구세대, 국경일, 국내선, 국제선, 규칙적, 그다지, 그래프, 그러게, 그렇지, 그림책, 그만큼, 그제야, 그토록, 근로자, 근본적, 급격히, 급속히, 기념일, 기념품, 기독교, 기술자, 기억력, 기업가, 기지개, 길거리, 꼭대기, 꼼꼼히, 꽃꽂이, 꽃무늬, 꾸준히, 끝없이, 나란히, 나뭇잎, 나이프, 내성적, 내후년, 낼모레, 네티즌, 노동자, 노선도, 노약자, 녹음기, 논리적, 놀이터, 농사일, 농산물, 높임말, 눈동자, 눈사람, 눈싸움, 늦가을, 늦겨울, 늦여름, 다리미, 다림질, 다행히, 당분간, 대다수, 대단히, 대도시, 대상자, 대여섯, 대청소, 대체로, 대표적, 더구나, 더욱더, 더욱이, 덩어리, 도리어, 도무지, 도시락, 도자기, 도저히, 독일어, 돌멩이, 동아리, 동양인, 동창회, 동호회, 동화책, 되도록, 되풀이, 두려움, 두통약, 뒷골목, 뒷모습, 드라이, 드레스, 등록금, 등록증, 등산복, 디지털, 따라서, 따르릉, 땅바닥, 때때로, 똑똑히, 뜻대로, 뜻밖에, 렌터카, 리모컨, 마땅히, 마라톤, 마무리, 마우스, 마음껏, 마음씨, 마침내, 막대기, 말끔히, 말다툼, 말없이, 말하기, 맘대로, 맞벌이, 맞은편, 맞춤법, 매운맛, 매운탕, 머리칼, 머릿속, 멋대로, 메뉴판, 메모지, 멜로디, 며느리, 면허증, 모니터, 모처럼, 목구멍, 목적지, 몸무게, 무관심, 무더위, 무사히, 무의미, 무지개, 무책임, 문구점, 문방구, 문제점, 문화재, 문화적, 물소리, 물질적, 미디어, 미용사, 미장원, 밑바닥, 바가지, 바구니, 바닷물, 반대쪽, 반창고, 발걸음, 발꿈치, 발자국, 발표회, 밥그릇, 방바닥, 방송사, 배우자, 배터리, 번호표, 벽시계, 별말씀, 보고서, 보너스, 보름달, 보리차, 보행자, 복사기, 복숭아, 볼거리, 부동산, 부분적, 부작용, 부잣집, 부정적, 부정확, 부주의, 분실물, 불가능, 불규칙, 불균형, 불만족, 불완전, 불이익, 불충분, 불친절, 불평등, 불필요, 불확실, 비교적, 비로소, 비상구, 비타민, 비판적, 비행장, 빈자리, 빗방울, 사교적, 사나이, 사무소, 사무직, 사생활, 사업가, 사업자, 사우나, 사진관, 사진첩, 사춘기, 사투리, 사회자, 사회적, 상담실, 상담원, 상대적, 상대편, 상반기, 상상력, 새로이, 새엄마, 생김새, 생머리, 생방송, 생활비, 서서히, 서양인, 선진국, 설명서, 설문지, 성공적, 성적표, 세계적, 세계화, 세탁물, 소개팅, 소규모, 소극장, 소극적, 소금물, 소나기, 소나무, 소독약, 소방관, 소방서, 소방차, 소비자, 소설가, 소설책, 소시지, 소아과, 소중히, 소지품, 속눈썹, 속마음, 손가방, 손잡이, 송별회, 송아지, 쇠고기, 수도권, 수돗물, 수동적, 수리비, 수면제, 수수료, 수시로, 수없이, 수입품, 숙박비, 순간적, 순식간, 술자리, 스위치, 스커트, 스케줄, 스타킹, 슬리퍼, 승무원, 승용차, 승차권, 시금치, 시멘트, 시부모, 시청률, 시청자, 시험지, 식당가, 식료품, 식사량, 식용유, 식중독, 식품점, 신문사, 신문지, 신상품, 신세대, 신입생, 신제품, 신청서, 신체적, 실용적, 실제로, 심리적, 심부름, 싸구려, 쌍둥이, 아래층, 아랫집, 아마도, 아무개, 아무런, 아쉬움, 아시아, 아울러, 아이고, 아침밥, 아홉째, 안내서, 안내소, 안내원, 안내판, 안전띠, 앞머리, 약혼녀, 약혼자, 양배추, 어느덧, 어느새, 어르신, 어린애, 어저께, 어쩌면, 어쩐지, 어찌나, 억지로, 언젠가, 얼마간, 엉터리, 엊그제, 여덟째, 여드름, 여름철, 여섯째, 여행가, 역사가, 역사상, 역사적, 연구소, 연구실, 연구원, 연구자, 연기자, 연두색, 연주회, 연체료, 영양제, 영원히, 영향력, 예술적, 예식장, 예컨대, 오늘날, 오락실, 오로지, 오른발, 오른편, 오징어, 오페라, 온종일, 올여름, 옷차림, 외갓집, 외교관, 외로움, 외삼촌, 외숙모, 외아들, 외출복, 요리법, 요즈음, 우연히, 우체통, 우편물, 우편함, 우회전, 운동량, 웃어른, 원숭이, 월드컵, 위아래, 위원회, 위험성, 윗사람, 유난히, 유람선, 유리창, 유적지, 육체적, 음식물, 응급실, 의무적, 이국적, 이기적, 이대로, 이력서, 이른바, 이름표, 이만큼, 이미지, 이상적, 이용자, 이웃집, 이윽고, 이제야, 이튿날, 인간성, 인간적, 인삼차, 인상적, 일곱째, 일교차, 일반인, 일반적, 일본어, 일부분, 일상적, 일시불, 일시적, 일정표, 일찍이, 일회용, 입장료, 입학식, 자가용, 자격증, 자꾸만, 자부심, 자신감, 자연적, 자연히, 자주색, 작곡가, 작은집, 잔디밭, 장기간, 장기적, 장단점, 장례식, 장마철, 장애인, 재떨이, 재빨리, 재작년, 재학생, 재활용, 저녁때, 저만큼, 적당히, 적어도, 전문가, 전문적, 전문점, 전문직, 전시장, 전시회, 전통적, 절대로, 절대적, 젊은이, 점심때, 정기적, 정말로, 정반대, 정보화, 정상적, 정수기, 정신적, 정육점, 정치인, 정치적, 제과점, 제시간, 제자리, 조미료, 졸업생, 졸업식, 좀처럼, 종교적, 종아리, 종이컵, 좌회전, 주관적, 주유소, 주전자, 주차권, 주차료, 줄거리, 줄넘기, 줄무늬, 중고차, 중국어, 중심지, 중형차, 즐거움, 증명서, 지극히, 지금껏, 지난날, 지도자, 지식인, 지하실, 직장인, 직접적, 진단서, 진통제, 진행자, 집중적, 차라리, 차림표, 차이점, 참기름, 참석자, 참으로, 책가방, 책임감, 책임자, 챔피언, 처방전, 천주교, 철저히, 첫사랑, 첫인상, 청소기, 초가을, 초겨울, 초승달, 초여름, 초저녁, 초청장, 최고급, 추천서, 축구장, 출근길, 충격적, 치료법, 친아들, 친언니, 친오빠, 캠페인, 코미디, 콧노래, 콩나물, 큰아들, 클래식, 탑승객, 탤런트, 테스트, 테이프, 틈틈이, 파출소, 파트너, 팔꿈치, 평상시, 포도주, 포장지, 표준어, 표지판, 프린터, 필수적, 필수품, 필요성, 하느님, 하여튼, 학부모, 학용품, 한겨울, 한국말, 한국적, 한동안, 한밤중, 한순간, 한여름, 할인점, 함부로, 합격자, 합리적, 항공료, 해결책, 해돋이, 해산물, 핸드백, 행사장, 허리띠, 허벅지, 현대인, 현대적, 화장대, 화장지, 환상적, 환승역, 환영회, 활동적, 회의실, 효과적, 휴가철, 휴양지, 고춧가루, 공공장소, 공중전화, 관계없이, 교통수단, 구경거리, 국제결혼, 그럭저럭, 그런대로, 그야말로, 기말시험, 끊임없이, 나뭇가지, 놀이공원, 다운로드, 단발머리, 대중가요, 대중교통, 대중문화, 동그라미, 동서남북, 드라이브, 드라이어, 따로따로, 마음가짐, 마음대로, 미성년자, 민속놀이, 민주주의, 밀리미터, 반짝반짝, 배낭여행, 부끄러움, 부지런히, 빠짐없이, 사고방식, 사회생활, 산꼭대기, 상관없이, 생년월일, 생활용품, 선글라스, 손목시계, 쇼핑센터, 수도꼭지, 수수께끼, 스튜디오, 시내버스, 시아버지, 시외버스, 신혼부부, 쓸데없이, 아랫사람, 아무래도, 아침저녁, 아프리카, 애완동물, 액세서리, 여름휴가, 열쇠고리, 영화감독, 오래도록, 오래오래, 오피스텔, 외할머니, 요구르트, 운동선수, 운전기사, 운전면허, 울음소리, 웃음소리, 이곳저곳, 이런저런, 이리저리, 이해관계, 인간관계, 인스턴트, 일석이조, 일회용품, 입학시험, 자연환경, 재활용품, 전자사전, 정신없이, 정형외과, 중소기업, 체크무늬, 친아버지, 친어머니, 콜록콜록, 큰아버지, 큰어머니, 틀림없이, 한가운데, 한꺼번에, 해수욕장, 호주머니, 홈페이지, 옛날이야기, 외할아버지, 이비인후과, 작은아버지, 작은어머니, 전자레인지, 드라이클리닝, 에스컬레이터, 
-# Results
-가습기 - Humidifier
-가전제품 - Home appliances
-감옥 - Prison
-강물 - River
-강의실 - Lecture room (classroom)
-개나리 - Forsythia (a type of flowering plant)
-건전지 - Battery
-걸레 - Rag/Cloth
-겉옷 - Outer garment/Coat
-경기장 - Stadium
-경비실 - Guardroom (security office)
-계곡 - A valley
-고궁 - An ancient palace
-곡식 - Grain/cereal
-골목 - An alley
-교복 - A school uniform
-교재 - A textbook
-국화 - A chrysanthemum flower
-기둥 - A pillar  
-나물 - Edible greens  
-낙엽 - A fallen leaf  
-눈썹 - An eyebrow  
-다방 - A teahouse  
-단지 - A jar  
-대접 - A (serving) bowl  
-도마 - A cutting board  
-두뇌 - A brain  
-둥지 - A nest  
-마디 - A bone joint (node)  
-마루 - A wooden floor  
-맨발 - Bare feet  
-멸치 - An anchovy  
-명함 - A business card  
-몸통 - A torso  
-무기 - A weapon  
-무덤 - A grave  
-물감 - Paint (for art)  
-물약 - Liquid medicine  
-물질 - A substance or matter  
-바늘 - A needle  
-반죽 - Dough  
-반품 - Returned goods  
-발등 - The top of a foot
-밥솥 - A rice cooker
-베개 - A pillow
-벽지 - Wallpaper
-본부 - A headquarters (building)
-보도 - A sidewalk
-보리 - Barley
-보물 - A treasure (valuable objects)
-보석 - A jewel
-부채 - A hand-held fan
-부품 - A machine part
-분필 - Chalk
-뿌리 - A root
-상가 - A shopping center/building
-상금 - Prize money
-서적 - Books
-석유 - Petroleum
-성당 - A Catholic church (building)
-소변 - Urine
-손등 - The back of a hand
-수표 - A check  
-시집 - A poetry book  
-식기 - Tableware  
-식량 - Food supplies  
-안과 - An eye clinic  
-안심 - A beef tenderloin  
-안약 - Eye drops  
-액자 - A frame  
-약도 - A roughly drawn map  
-양산 - A parasol  
-언덕 - A hill  
-얼룩 - A stain  
-여고 - A girls' high school  
-연못 - A pond
+재킷 - jacket - A short coat.
+돌멩이 - stone - A small rock.
+쇠고기 - beef - Meat from cattle.
+자매 - sister - A female sibling.
+차로 - road - A route for vehicles.
+주방 - kitchen - A room for cooking.
+일손 - manpower - Workforce or labor.
+입맛 - appetite - The desire for food.
+걸레 - rag - A cloth used for cleaning.
+의류 - apparel - Clothing items for wear.
+발등 - instep - The top part of the foot.
+소지품 - belongings - Personal possessions.
+연못 - pond - A small body of still water.
+장수 - longevity - Long life or existence.
+무덤 - tomb - A burial place for the dead.
+인물 - person - An individual human being.
+시금치 - spinach - A leafy green vegetable.
+고궁 - ancient palace - A historic palace.
+잔디밭 - lawn - An area covered with grass.
+코피 - nosebleed - Bleeding from the nose.
+잠옷 - pajamas - Clothes worn for sleeping.
+차창 - car window - The window of a vehicle.
+빗방울 - raindrop - A single droplet of rain.
+의복 - clothing - Garments worn on the body.
+송아지 - calf - A young domestic cow or bull.
+저울 - scale - A device for weighing objects.
+지붕 - roof - The top covering of a building.
+점원 - clerk - A worker in a store or office.
+약혼자 - fiancé - A man engaged to be married.
+배우자 - spouse - A person married to another.
+허리띠 - belt - A strap worn around the waist.
+반품 - return - Sending back a purchased item.
+운동선수 - athlete - A person trained in sports.
+중고차 - used car - A previously owned vehicle.
+음반 - album - A collection of recorded music.
+강물 - river water - Flowing water of a river.
+정육점 - butcher shop - A store that sells meat.
+연주회 - concert - A public musical performance.
+운전기사 - driver - A person operating a vehicle.
+지폐 - banknote - Paper currency used as money.
+소나기 - shower - A short, sudden burst of rain.
+식량 - food supply - Provisions for sustenance.
+대접 - bowl - A container used for serving food.
+연체료 - overdue fee - A charge for late payment.
+보석 - jewel - A precious stone used in jewelry.
+약혼녀 - fiancée - A woman engaged to be married.
+성당 - cathedral - A large and important church.
+곡식 - grain - A cereal crop harvested for food.
+눈썹 - eyebrow - The arch of hair above the eye.
+빈자리 - empty seat - A seat that is not occupied.
+큰돈 - large sum - A significant amount of money.
+외아들 - only son - A male child with no siblings.
+시내버스 - city bus - A bus operating within a city.
+장모 - mother-in-law - The mother of one's spouse.
+골목 - alley - A narrow passage between buildings.
+머리칼 - hair - The strands growing from the scalp.
+작은집 - smaller house - A dwelling of modest size.
+소설책 - novel - A book-length fictional narrative.
+염색 - dyeing - The process of coloring materials.
+홋수 - odd number - A number not divisible by two.
+원룸 - studio apartment - A single-room apartment.
+음식물 - food - Substances consumed for nourishment.
+호주머니 - pocket - A small pouch sewn into clothing.
+화장지 - toilet paper - Soft paper used for hygiene.
+해산물 - seafood - Edible marine animals and plants.
+주택 - house - A building for residential purposes.
+밥솥 - rice cooker - An appliance for cooking rice.
+충격 - shock - A sudden or violent impact or event.
+장사 - trade - The act of buying and selling goods.
+종이컵 - paper cup - A disposable cup made of paper.
+시집 - poetry collection - A book containing poems.
+얼룩 - stain - A mark or discoloration on a surface.
+후추 - pepper - A spice made from dried peppercorns.
+메모지 - notepad - A small booklet for writing notes.
+주전자 - kettle - A container used for boiling water.
+석유 - oil - A fossil fuel used as an energy source.
+외출복 - outing clothes - Attire worn when going out.
+양배추 - cabbage - A leafy green or purple vegetable.
+식용유 - cooking oil - An oil used for preparing food.
+시부모 - parents-in-law - The parents of one's spouse.
+밥그릇 - rice bowl - A bowl used to hold rice or food.
+장관 - minister - A high-ranking government official.
+외삼촌 - maternal uncle - The brother of one's mother.
+녹음기 - recorder - A device used for audio recording.
+신문지 - newspaper - Printed material containing news.
+감옥 - prison - A building used to confine criminals.
+제자 - disciple - A follower or student of a teacher.
+천국 - heaven - A place of ideal happiness and peace.
+안심 - relief - A feeling of reassurance or security.
+미디어 - media - The main means of mass communication.
+열쇠고리 - keychain - A ring or chain used to hold keys.
+지하실 - basement - An underground level of a building.
+도마 - cutting board - A board used for chopping food.
+부채 - fan - A device for creating airflow or cooling.
+경비실 - security room - A room for security personnel.
+여행가 - traveler - A person who visits various places.
+천장 - ceiling - The upper interior surface of a room.
+소변 - urine - A liquid waste excreted by the kidneys.
+예식장 - wedding hall - A venue for wedding ceremonies.
+수면제 - sleeping pill - Medication that induces sleep.
+상가 - shopping center - A complex of shops or stores.
+앞머리 - bangs - Hair styled to fall over the forehead.
+이름표 - name tag - A label displaying a person's name.
+골목길 - alleyway - A narrow passage between buildings.
+막대기 - stick - A long, thin piece of wood or material.
+발자국 - footprint - A mark left by a foot on a surface.
+첫눈 - first snow - The initial snowfall of the season.
+우편함 - mailbox - A box for collecting or storing mail.
+약도 - map sketch - A simplified drawing of a location.
+흔적 - trace - A mark or sign left behind by something.
+벽지 - wallpaper - Decorative paper for covering walls.
+주먹 - fist - A hand with fingers curled into the palm.
+우물 - well - A deep hole drilled for water extraction.
+물질 - substance - A material with specific properties.
+생머리 - straight hair - Hair that lacks curls or waves.
+치즈 - cheese - A dairy product made from curdled milk.
+필기 - writing - The act or product of writing by hand.
+흥미 - interest - A feeling of curiosity or engagement.
+동아리 - club - A group of people with shared interests.
+여름철 - summer season - The warmest period of the year.
+폭우 - heavy rain - Intense rainfall over a brief time.
+자본 - capital - Wealth in the form of money or assets.
+행사장 - event venue - A location where events are held.
+학비 - tuition - Money paid for education or schooling.
+슬리퍼 - slipper - A soft, comfortable shoe worn indoors.
+마루 - wooden floor - A traditional Korean wooden floor.
+강의실 - lecture hall - A room for teaching and learning.
+태양 - sun - The star at the center of our solar system.
+폭력 - violence - Physical force used to harm or damage.
+부품 - component - A part of a larger machine or device.
+물감 - paint - Colored substances used for creating art.
+생활용품 - household items - Objects used in daily living.
+손등 - back of the hand - The outer surface of the hand.
+인삼차 - ginseng tea - A beverage made with ginseng root.
+맨발 - barefoot - Without shoes or other foot coverings.
+화폐 - currency - A system of money in use in a country.
+보물 - treasure - Valuable items such as gold or jewels.
+화재 - fire - An uncontrolled combustion causing damage.
+신상품 - new product - A recently launched item for sale.
+교재 - textbook - Educational material used for learning.
+멸치 - anchovy - A small, saltwater fish used in cooking.
+언덕 - hill - A natural elevation of the Earth's surface.
+자료 - data - Information used for analysis or reference.
+장남 - eldest son - The firstborn male child in a family.
+파출소 - police substation - A small local police station.
+산꼭대기 - mountain peak - The highest point of a mountain.
+방바닥 - floor - The surface of a room on which one walks.
+수도꼭지 - faucet - A device controlling the flow of water.
+소방차 - fire truck - A vehicle equipped for firefighting.
+여드름 - acne - A skin condition characterized by pimples.
+키스 - kiss - A physical act of affection using the lips.
+축구장 - soccer field - A playing area for soccer matches.
+무기 - weapon - An object used to inflict damage or harm.
+횟수 - frequency - The number of occurrences of an event.
+밑바닥 - bottom - The lowest part or surface of something.
+풍선 - balloon - A flexible bag inflated with air or gas.
+육군 - army - The land-based military forces of a country.
+손목시계 - wristwatch - A small timepiece worn on the wrist.
+폭발 - explosion - A violent and sudden release of energy.
+출산 - childbirth - The process of giving birth to a baby.
+손가방 - handbag - A small bag for carrying personal items.
+토론 - debate - A formal discussion on a particular topic.
+유람선 - cruise ship - A large boat used for leisure trips.
+도시락 - lunchbox - A container for carrying a packed meal.
+총리 - prime minister - The head of an elected government.
+이웃집 - neighbor's house - A house located near one's own.
+영양제 - supplement - A product taken to improve nutrition.
+초록 - green - The color associated with grass and leaves.
+덩어리 - lump - A compact mass of substance, usually solid.
+동창회 - alumni meeting - A gathering of former classmates.
+낙엽 - fallen leaves - Leaves that have fallen from trees.
+공연장 - theater - A venue for live performances or events.
+보리 - barley - A cereal grain used in food and beverages.
+표면 - surface - The outermost layer of an object or area.
+통행 - passage - The act of moving through a space or area.
+농산물 - produce - Agricultural goods grown for consumption.
+전자레인지 - microwave - A kitchen appliance for heating food.
+바닷물 - seawater - The saltwater found in the sea or ocean.
+우편물 - mail - Letters or parcels delivered to a recipient.
+반창고 - bandage - A strip used to protect or cover a wound.
+자원 - resource - A stock or supply of materials or assets.
+큰길 - main road - A primary route used for transportation.
+코너 - corner - The place where two lines or surfaces meet.
+후식 - dessert - A sweet course eaten at the end of a meal.
+육체 - body - The physical structure of a person or animal.
+큰아들 - eldest son - The first-born male child in a family.
+외할머니 - maternal grandmother - The mother of one's mother.
+창밖 - outside window - The area visible through the window.
+조미료 - seasoning - A substance used to enhance food flavor.
+드라이어 - hair dryer - An electrical device used to dry hair.
+애완동물 - pet - A domesticated animal kept for companionship.
+두통약 - headache medicine - Medication to relieve headaches.
+철도 - railway - A system of tracks for trains to travel on.
+우체통 - mailbox - A container for sending or receiving mail.
+연탄 - briquette - A compressed block of coal dust for fuel.
+본부 - headquarters - The central office of an organization.
+소비자 - consumer - A person who purchases goods or services.
+콩나물 - bean sprouts - Edible sprouts from germinated beans.
+전시회 - exhibition - An organized display of art or objects.
+인체 - human body - The physical structure of a human being.
+재떨이 - ashtray - A container for cigarette ashes and butts.
+승용차 - passenger car - A vehicle designed for personal use.
+폭포 - waterfall - A cascade of water falling from a height.
+과학자 - scientist - A person engaged in scientific research.
+장마철 - rainy season - A period characterized by heavy rain.
+원서 - application - A formal written request for something.
+유리창 - glass window - A transparent pane in a window frame.
+터널 - tunnel - A passageway through or under an obstruction.
+수표 - check - A written order directing a bank to pay money.
+액세서리 - accessory - Decorative items worn or used for style.
+프린터 - printer - A machine for printing documents or images.
+식기 - tableware - Utensils used for serving and eating food.
+축제 - festival - A celebration or series of cultural events.
+필수품 - essential item - A necessary or indispensable object.
+식당가 - restaurant district - An area with multiple eateries.
+풍속 - wind speed - The rate at which air moves past a point.
+홈페이지 - website - A digital page accessible on the internet.
+통증 - pain - A sensation of physical discomfort or distress.
+보도 - sidewalk - A paved path for pedestrians beside a road.
+계약금 - deposit - Money paid upfront as part of an agreement.
+코트 - coat - An outer garment worn for warmth or protection.
+반죽 - dough - A mixture of flour and liquid used for baking.
+점퍼 - jumper - A pullover sweater or a jacket with a zipper.
+짐승 - animal - A living organism other than humans or plants.
+유적 - ruins - The remains of ancient buildings or structures.
+초봄 - early spring - The initial period of the spring season.
+꽃무늬 - floral pattern - A design or motif resembling flowers.
+몸무게 - body weight - The mass of a person's or animal's body.
+체중 - body weight - The measure of a person or animal's mass.
+출현 - appearance - The act of coming into sight or existence.
+열매 - fruit - The seed-bearing structure in flowering plants.
+벽시계 - wall clock - A clock designed to be mounted on a wall.
+후보 - candidate - A person nominated for a position or award.
+양산 - parasol - A light umbrella used for shade from the sun.
+소나무 - pine tree - An evergreen tree with needle-like leaves.
+호실 - room number - A specific designated room in a building.
+도자기 - pottery - Objects made from clay and hardened by heat.
+여고 - girls' high school - A high school for female students.
+주유소 - gas station - A facility that sells fuel for vehicles.
+수돗물 - tap water - Water supplied through pipes to a building.
+송별회 - farewell party - A gathering to say goodbye to someone.
+가전제품 - home appliances - Electric devices used in households.
+놀이터 - playground - An outdoor area for children's recreation.
+생방송 - live broadcast - A real-time transmission of a program.
+기술자 - engineer - A person trained in engineering disciplines.
+발꿈치 - heel - The back part of the human foot below the ankle.
+오락실 - arcade - A place with games and entertainment machines.
+오징어 - squid - A marine animal with a soft body and tentacles.
+부동산 - real estate - Property consisting of land or buildings.
+영화감독 - film director - A person who oversees film production.
+문방구 - stationery - Items used for writing or office purposes.
+숙박비 - lodging fee - The cost of staying at a place overnight.
+볼거리 - spectacle - Something interesting or impressive to see.
+월세 - monthly rent - Payment made monthly for rented property.
+교복 - school uniform - Standardized clothing worn by students.
+가습기 - humidifier - A device that increases humidity in a room.
+포도주 - wine - An alcoholic beverage made from fermented grapes.
+보리차 - barley tea - A traditional tea made from roasted barley.
+책가방 - school bag - A bag used for carrying books and supplies.
+차림표 - menu - A list of food and drink options at a restaurant.
+휴양지 - vacation spot - A place used for relaxation and leisure.
+해수욕장 - beach - A seaside location for swimming and recreation.
+미용사 - hairdresser - A person whose profession is styling hair.
+수리비 - repair cost - The expense incurred for fixing something.
+화장대 - vanity table - A table for grooming and applying makeup.
+우편 - mail - Letters and parcels sent through a postal service.
+다리미 - iron - A device used for pressing and smoothing clothes.
+경제적 - economical - Something characterized by cost efficiency.
+제과점 - bakery - A shop that makes and sells bread and pastries.
+안과 - ophthalmology - The branch of medicine dealing with eyes.
+물약 - liquid medicine - A medicinal preparation in liquid form.
+자가용 - private car - A personal vehicle owned by an individual.
+안내원 - guide - A person who provides information or assistance.
+신제품 - new product - An item recently introduced to the market.
+탑승 - boarding - The act of entering or getting onto a vehicle.
+마디 - joint - The point where two parts of a structure connect.
+재산 - property - Assets owned by an individual or organization.
+식품점 - grocery store - A shop selling food and household items.
+비행장 - airfield - A location for aircraft to take off and land.
+외숙모 - maternal aunt-in-law - The wife of one's maternal uncle.
+소시지 - sausage - A food made from minced meat encased in a skin.
+차량 - vehicle - A means of transportation, such as a car or bus.
+액자 - frame - A structure for enclosing a picture or photograph.
+비타민 - vitamin - Organic compounds essential for body functions.
+안약 - eye drops - A liquid medicine for treating eye conditions.
+물소리 - water sound - The auditory perception of water in motion.
+표지판 - signboard - A board displaying information or directions.
+나물 - wild greens - Edible plants, often used in Korean cuisine.
+역사가 - historian - A person who studies or writes about history.
+발걸음 - step - The act of placing one foot in front of the other.
+공중전화 - public telephone - A telephone available for public use.
+길거리 - street - A public road or thoroughfare in a city or town.
+시외버스 - intercity bus - A bus traveling between cities or towns.
+청소기 - vacuum cleaner - A device for cleaning floors by suction.
+복사기 - copier - A machine used to duplicate documents or images.
+계산기 - calculator - A device used for mathematical calculations.
+안내판 - signboard - A board displaying information or directions.
+바가지 - dipper - A container with a handle used to scoop liquids.
+호두 - walnut - A type of nut with a hard shell and edible kernel.
+스케줄 - schedule - A plan listing tasks or events and their times.
+호박 - pumpkin - A large orange gourd used for food or decoration.
+스커트 - skirt - A garment worn by women that hangs from the waist.
+입국 - entry into a country - The act of entering another country.
+풍습 - custom - Traditional behaviors or practices of a community.
+불균형 - imbalance - A state of being out of proportion or balance.
+분필 - chalk - A soft white limestone used for writing or drawing.
+기념품 - souvenir - An item kept as a reminder of a place or event.
+선글라스 - sunglasses - Glasses that protect the eyes from sunlight.
+원숭이 - monkey - A primate known for its agility and intelligence.
+제사 - ancestral rite - A traditional ceremony honoring ancestors.
+장례식 - funeral - A ceremony for honoring and burying the deceased.
+비상구 - emergency exit - A designated way out in case of emergency.
+커튼 - curtain - A piece of fabric hung to cover a window or space.
+경기장 - stadium - A large venue for sports or entertainment events.
+포장지 - wrapping paper - Paper used to wrap items, often for gifts.
+대도시 - metropolis - A very large and densely populated urban area.
+출국 - departure - The act of leaving one country to enter another.
+고구마 - sweet potato - An edible root vegetable with a sweet taste.
+정수기 - water purifier - A device for cleaning and filtering water.
+기둥 - pillar - A vertical structural element supporting a building.
+천둥 - thunder - A loud rumbling sound following a lightning strike.
+겉옷 - outerwear - Clothing worn over other garments for protection.
+경제력 - economic power - The ability of an entity to produce wealth.
+명함 - business card - A card with personal or professional details.
+하양 - white - A color representing the absence of all other colors.
+놀이공원 - amusement park - A park with attractions, rides, and games.
+공공장소 - public place - A location accessible to the general public.
+이자 - interest - A charge for borrowed money, usually a percentage.
+기억력 - memory - The mental ability to retain and recall information.
+노선도 - route map - A diagram showing transportation or travel paths.
+화장 - makeup - Substances applied to the face for cosmetic purposes.
+회의실 - meeting room - A room designated for meetings or discussions.
+바늘 - needle - A slender pointed tool used for sewing or injections.
+나뭇잎 - leaf - A flat, typically green, structure on a tree or plant.
+그림책 - picture book - A book with illustrations, often for children.
+꼭대기 - peak - The highest point of a structure or natural formation.
+수입품 - imported goods - Products brought into a country from abroad.
+사진관 - photo studio - A place for taking and developing photographs.
+불확실 - uncertainty - The state of not being definite or predictable.
+상금 - prize money - Monetary reward for a competition or achievement.
+속눈썹 - eyelash - The short hairs growing on the edges of the eyelids.
+핸드백 - handbag - A bag carried by hand, used for personal belongings.
+안전띠 - seat belt - A strap securing a person in a vehicle for safety.
+승차권 - ticket - A pass allowing one to ride a mode of transportation.
+신문사 - newspaper company - An organization that publishes newspapers.
+나뭇가지 - tree branch - A part of a tree that grows out from the trunk.
+베개 - pillow - A cushion used for supporting the head while sleeping.
+통일 - unification - The process of being united or made into a whole.
+국화 - chrysanthemum - A flowering plant often associated with autumn.
+다방 - teahouse - A place where tea and light refreshments are served.
+자주색 - purple - A color in the visible spectrum between blue and red.
+뒷골목 - back alley - A narrow, less traveled passage behind buildings.
+꽃꽂이 - flower arrangement - The art of arranging flowers for display.
+단지 - jar - A cylindrical container, typically made of glass or clay.
+안내소 - information desk - A place providing directions or assistance.
+연구소 - research institute - A facility dedicated to scientific study.
+스타킹 - stockings - A close-fitting garment worn on the feet and legs.
+몸통 - torso - The main part of the body excluding the limbs and head.
+참기름 - sesame oil - Oil extracted from sesame seeds, used in cooking.
+목적지 - destination - The place to which someone or something is going.
+생활비 - living expenses - Money needed for day-to-day life necessities.
+대상자 - recipient - A person or entity designated to receive something.
+팔꿈치 - elbow - The joint between the upper and lower parts of the arm.
+잔돈 - change - Small denominations of money returned after a purchase.
+폭설 - heavy snow - A large accumulation of snow during a short period.
+설명서 - manual - A booklet or document explaining how to use something.
+배터리 - battery - A device for storing and supplying electrical energy.
+사진첩 - photo album - A book for organizing and displaying photographs.
+고춧가루 - chili powder - A powdered spice made from dried chili peppers.
+스튜디오 - studio - A room or building for creative work or broadcasting.
+통계 - statistics - Numerical data collected and analyzed for insights.
+식중독 - food poisoning - Illness caused by consuming contaminated food.
+쇼핑센터 - shopping center - A complex with multiple stores and services.
+제작 - production - The process of creating or manufacturing something.
+집단 - group - A collection of individuals or things gathered together.
+오피스텔 - officetel - A building combining office and residential spaces.
+주차권 - parking ticket - A pass permitting parking in a designated area.
+모니터 - monitor - A screen for displaying visual output from a computer.
+번호표 - number ticket - A numbered slip for indicating order in a queue.
+안내서 - guidebook - A book providing information about a topic or place.
+휴대 - portability - The quality of being easily carried or transported.
+식료품 - groceries - Items of food and household supplies sold in stores.
+품질 - quality - The standard of something as measured against criteria.
+전시장 - exhibition hall - A space where items are displayed for viewing.
+창고 - warehouse - A large building where goods or materials are stored.
+개나리 - forsythia - A yellow-flowered shrub that blooms in early spring.
+사무소 - office - A room or building where professional work is conducted.
+천사 - angel - A supernatural being often depicted as a messenger of God.
+피서 - summer retreat - A place or activity for escaping the summer heat.
+공과금 - utility fees - Charges for services such as water or electricity.
+복숭아 - peach - A soft, juicy fruit with a fuzzy skin and a stone inside.
+육지 - land - The solid part of the Earth's surface not covered by water.
+통신 - communication - The exchange of information through various means.
+보행자 - pedestrian - A person walking rather than traveling in a vehicle.
+면허증 - license - An official document giving permission to do something.
+충돌 - collision - An event where two objects come into forceful contact.
+두뇌 - brain - The organ of the body responsible for thought and control.
+집안 - household - A family or the people living together in a residence.
+계곡 - valley - A low area between hills or mountains, often with a river.
+등산복 - hiking clothes - Apparel designed for mountain climbing or hiking.
+매운탕 - spicy fish stew - A hot, spicy soup made with fish and vegetables.
+멜로디 - melody - A sequence of musical notes perceived as a single entity.
+손잡이 - handle - A part of an object designed for holding or operating it.
+장식 - decoration - An object used to enhance the appearance of something.
+초청장 - invitation card - A card requesting someone's presence at an event.
+서적 - book - A written or printed work consisting of pages bound together.
+동호회 - society - A group organized around a specific activity or interest.
+하차 - disembarkation - The act of getting off a vehicle or transportation.
+수도권 - metropolitan area - A large urban area and its surrounding regions.
+미장원 - beauty salon - A shop offering cosmetic treatments and hairstyling.
+재활용 - recycling - The process of converting waste into reusable material.
+세탁물 - laundry - Clothes and linens that need washing or have been washed.
+둥지 - nest - A structure built by birds or animals to live in or lay eggs.
+신청서 - application form - A document used to request a service or position.
+시멘트 - cement - A powdery substance used to bind materials in construction.
+신입생 - new student - A person newly admitted to an educational institution.
+보름달 - full moon - The lunar phase when the moon appears fully illuminated.
+장애인 - disabled person - An individual with physical or mental impairments.
+소독약 - disinfectant - A substance used to kill germs and prevent infection.
+건전지 - battery - A device that stores electrical energy for use in devices.
+소방서 - fire station - A building where fire engines and equipment are kept.
+욕실 - bathroom - A room containing a bathtub or shower and usually a toilet.
+연구원 - researcher - A person who conducts studies to discover new knowledge.
+회비 - membership fee - Money paid to join or maintain membership in a group.
+목구멍 - throat - The passage inside the neck through which food and air pass.
+소방관 - firefighter - A person trained to extinguish fires and rescue people.
+연구실 - laboratory - A room or building equipped for experiments or research.
+유물 - artifact - An object made by humans, typically of historical interest.
+크림 - cream - The thick, fatty part of milk used in cooking or as a topping.
+자격증 - certificate - A document attesting to a qualification or achievement.
+상상력 - imagination - The ability to form mental images of things not present.
+흉내 - imitation - The act of copying the behavior or appearance of something.
+동화책 - fairy tale book - A book containing fantastical or children's stories.
+바구니 - basket - A container made of interwoven material, often with a handle.
+시험지 - test paper - A sheet containing questions or exercises for evaluation.
+희생 - sacrifice - The act of giving up something valuable for a greater cause.
+뿌리 - root - The underground part of a plant that absorbs water and nutrients.
+유적지 - historical site - A place with remains of past civilizations or events.
+운전면허 - driver's license - An official document authorizing vehicle operation.
+등록증 - registration certificate - An official document certifying registration.
+마우스 - mouse - A computer input device with buttons for pointing and selecting.
+에스컬레이터 - escalator - A moving staircase for transporting people between floors.
+메뉴판 - menu - A printed or written list of food items available in a restaurant.
+창구 - counter - A flat surface or area for conducting transactions or inquiries.
+계산대 - counter - A flat surface in a store or business where transactions occur.
+술자리 - drinking gathering - A social meeting where alcoholic drinks are consumed.
+통역 - interpretation - The act of translating spoken words into another language.
+문화재 - cultural heritage - Tangible items of historical or cultural significance.
+천재 - genius - An individual with extraordinary intellectual or creative ability.
+환승역 - transfer station - A location where passengers switch transportation modes.
