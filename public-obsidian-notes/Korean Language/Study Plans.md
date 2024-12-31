@@ -2,24 +2,28 @@
 publish: "false"
 ---
 ## On Rotation - Low Focus
- - Teach Mario stuff (button callback)
- - (22 DEC) Koala long-term feature backlog (Current: curated content)
+ - Koala long-term feature backlog (Current: curated content)
  -  Year-in-review prep
  - Career plan work
  - Stretch
  - Kimchi reader vocab list pruning (Continuing [[Tangible Noun Vocab List]] for after grammar list in class)
+ - (31 DEC) Teach Mario stuff (button callback)
 
 ## On Rotation - High Focus
 
  - Readlang OR Kimchi Reader reading ([Current](https://nextjs-ko.org/docs/getting-started/installation))
- - Use Kimchi Reader => YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
  - HT Voice Room
  - (22 DEC) Koala-based career dev (tests, refactors, tools)
  - Textbook Reading / Korean class homework
+ - Use Kimchi Reader => YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
+
+---
+
+# NOTES
 
 - [x] Complete 5 more iTalki sessions
 - [x] Homework for Korean class (!!) Only two days!
- - [ ] Register for TOPIK in January
+ - [x] Register for TOPIK in January
  - [ ] Complete "찰떡 한국어"
  - [ ] Complete "Korean Grammar in Use"
  - [ ] HN news (use Algolia) Summary + script
