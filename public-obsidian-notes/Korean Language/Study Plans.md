@@ -4,10 +4,10 @@ publish: "false"
 ## On Rotation - Low Focus
  - Koala long-term feature backlog (Current: curated content)
  - Year-in-review prep
- - Career plan work
- - Kimchi reader vocab list pruning (Continuing [[Tangible Noun Vocab List]] for after grammar list in class)
+ - Career plan work / Interview Skills
  - (31 DEC) Teach Mario stuff (button callback)
- - - Stretch
+ - Stretch
+ - Kimchi reader vocab list pruning (Continuing [[Tangible Noun Vocab List]] for after grammar list in class)
 
 ## On Rotation - High Focus
 
