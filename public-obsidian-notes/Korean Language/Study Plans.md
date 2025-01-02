@@ -3,11 +3,11 @@ publish: "false"
 ---
 ## On Rotation - Low Focus
  - Koala long-term feature backlog (Current: curated content)
- - Year-in-review prep
  - Career plan work / Interview Skills
  - (31 DEC) Teach Mario stuff (button callback)
  - Stretch
  - Kimchi reader vocab list pruning (Continuing [[Tangible Noun Vocab List]] for after grammar list in class)
+ -  Year-in-review prep
 
 ## On Rotation - High Focus
 
@@ -44,8 +44,15 @@ Write a paragraph in Korean about all my Korean language studies.
 - Add multi-lingual support
 - TODO Look at release notes / PRs
 - Added decks feature
+
+#### April 2024
+STOPPED HERE
 #### March 2024
-- STOPPED HERE
+- Sweeny Tod
+- Read "How to Focus"
+- Easter egg hunt w fam
+- OpenSCAD class
+- Makerspace cleanup
 #### February 2024
  - Gave a talk at Fox.Build AI night
  - Tornado
