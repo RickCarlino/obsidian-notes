@@ -67,3 +67,4 @@ Write a paragraph in Korean about all my Korean language studies.
  - Read in Readlang, ask questions
  - Re-watch a few times or loop on long run
 
+저는 개인적으로 좋아하는 음식이 부산 음식이기도 해서 밀면이라는 게 있거든요. 혹시 아시는지.
