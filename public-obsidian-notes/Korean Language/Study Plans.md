@@ -19,6 +19,7 @@ publish: "false"
 
 ---
 
+그러다가 만약에 거절당하면 그냥 그때부터 친구로 지낼 것 같아 아 그러면 고백은 하는 거야? 응 좀 나중에?
 # NOTES
 
 - [x] Complete 5 more iTalki sessions
