@@ -5,9 +5,9 @@ publish: "false"
  - Koala long-term feature backlog (Current: curated content)
  - Career plan work / Interview Skills
  - (31 DEC) Teach Mario stuff (button callback)
- - Stretch
  - Kimchi reader vocab list pruning (Continuing [[Tangible Noun Vocab List]] for after grammar list in class)
  -  Year-in-review prep
+ - Stretch
 
 ## On Rotation - High Focus
 
@@ -18,8 +18,6 @@ publish: "false"
  - Use Kimchi Reader => YT Dev tuts => [currrent](https://youtu.be/Gt40VneLdX4?si=xR9p3EotN7Gy6sHm)
 
 ---
-
-그러다가 만약에 거절당하면 그냥 그때부터 친구로 지낼 것 같아 아 그러면 고백은 하는 거야? 응 좀 나중에?
 # NOTES
 
 - [x] Complete 5 more iTalki sessions
@@ -47,7 +45,11 @@ Write a paragraph in Korean about all my Korean language studies.
 - Added decks feature
 
 #### April 2024
-STOPPED HERE
+ * Medicine change
+ * Henrietta died, new chickens
+ * Took the TOPIK
+ * Emily recital (the good one)
+ * New car
 #### March 2024
 - Sweeny Tod
 - Read "How to Focus"
