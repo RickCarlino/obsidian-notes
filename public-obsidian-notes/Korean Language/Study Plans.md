@@ -44,6 +44,14 @@ Write a paragraph in Korean about all my Korean language studies.
 - TODO Look at release notes / PRs
 - Added decks feature
 
+#### May / June
+
+ - Pat son's passed away
+ - Medicine changes
+ - Volunteer half marathon
+ - Family BBQ
+ - Korean tutoring
+ - 
 #### April 2024
  * Medicine change
  * Henrietta died, new chickens
