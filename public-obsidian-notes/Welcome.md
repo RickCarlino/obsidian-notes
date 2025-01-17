@@ -11,6 +11,7 @@ I use this as a public notebook for quick ideas or small content that does not f
 ### Web Dev
 - [[File-Based Routing Outside of Next.JS]]
 ### LLMs and Language Learnering
+- [[A Year of Spaced Repetition]]
 - [[Grammar pattern example generator (GPT-O1)]]
 - [[LLMs and L2 Acquisition - Applications and Research Topics]]
 - [[Grammar Pattern Practice Drills]]
