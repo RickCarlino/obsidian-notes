@@ -35,8 +35,26 @@ publish: "false"
 
 #### Looking at 2024 Goals
 
+# Stopped at September 1st
 #### Continuing Korean Studies
 Write a paragraph in Korean about all my Korean language studies.
+### Big Events
+
+ - Korea
+ - SF
+ - No runs, volunteered at the great western half marathon
+ - Helping son expand his interest in STEM
+ - Coding projects (simplex, the game, TS-FSRS, what else?)
+### Themes
+
+- Learned a lot of the OpenAI API
+- Mostly an "off" year, not a lot of big projects other than Koala
+- It's time for a big project - but what?
+	- My Korean skills are improving, might be time to do a real-world project. Use the skills in the real world.
+		- YT Channel
+		- Kor <=> Eng Podcast?
+		- Ask HN in Korean?
+		- 
 #### KoalaSRS Progress
 - Switch from SQLite to Postgres
 - Switch from SM-2 to FSRS
