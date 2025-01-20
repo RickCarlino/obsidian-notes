@@ -33,7 +33,7 @@ publish: "false"
  - YT as a textbook (YT -> Kimchi -> Readlang -> Koala)
  - Occulus time
 
-#### Looking at 2023 Goals
+#### Looking at 2024 Goals
 
 #### Continuing Korean Studies
 Write a paragraph in Korean about all my Korean language studies.
