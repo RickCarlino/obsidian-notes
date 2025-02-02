@@ -49,6 +49,8 @@ Write a paragraph in Korean about all my Korean language studies.
  - Foxbuild still growing 9 yr anniversary
  - topik tutoring
  - Lots of time with kids
+ - tons of updates to Koala, first signs of users
+ - 
 ### Themes
 
 - Learned a lot of the OpenAI API
