@@ -35,7 +35,7 @@ publish: "false"
 
 #### Looking at 2024 Goals
 
-# Stopped at September 1st
+# Stopped at October 1st
 #### Continuing Korean Studies
 Write a paragraph in Korean about all my Korean language studies.
 ### Big Events
@@ -45,6 +45,10 @@ Write a paragraph in Korean about all my Korean language studies.
  - No runs, volunteered at the great western half marathon
  - Helping son expand his interest in STEM
  - Coding projects (simplex, the game, TS-FSRS, what else?)
+ - 10k hr research paper
+ - Foxbuild still growing 9 yr anniversary
+ - topik tutoring
+ - Lots of time with kids
 ### Themes
 
 - Learned a lot of the OpenAI API
