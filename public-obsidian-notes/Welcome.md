@@ -10,6 +10,7 @@ I use this as a public notebook for quick ideas or small content that does not f
 - [[Summary of the original "10,000 Hours" paper]]
 ### Web Dev
 - [[File-Based Routing Outside of Next.JS]]
+- [[Your First 90 Days as a Senior Dev, According to Hacker News]]
 ### LLMs and Language Learnering
 - [[A Year of Spaced Repetition]]
 - [[Grammar pattern example generator (GPT-O1)]]
