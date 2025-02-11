@@ -33,6 +33,9 @@ I use this as a public notebook for quick ideas or small content that does not f
  - [[My Readlang Importer]]
  - [[Notes - Korean Conversations and Debating]]
 
+# Utils
+
+* [[A Ruby Packet Analyzer]]
 
 ## Drafts and Incomplete Thoughts
 - [[Probability-Based Software Estimation]]
