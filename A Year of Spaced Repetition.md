@@ -8,6 +8,8 @@
 # Failed Experiments
  - Objects can still be learned in isolation.
 
+# Future Experiments
+- Really long cards with comprehension questions (like the TOPIK listening test)
 # Learnings
 - Quantity over quality. "SRS Cards aren't Pokemon". Delete hard cards and focus on volume.
 
