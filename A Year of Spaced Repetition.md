@@ -7,6 +7,8 @@
 
 # Failed Experiments
  - Objects can still be learned in isolation.
+# Still Not Sure
+- Conjunctions are not well suited to SRS, it seems.
 
 # Future Experiments
 - Really long cards with comprehension questions (like the TOPIK listening test)
