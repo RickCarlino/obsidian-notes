@@ -10,3 +10,4 @@ Related: [[TOPIK Question 53 Patterns]]
 
 ![[Pasted image 20250220083800.png]]
 ![[Pasted image 20250220083832.png]]
+청계청에서 2023 인구 순구입률에 관한 도표이다. 충청권은 0.34
