@@ -1,3 +1,15 @@
+## Book Reading
+
+## Chart Writing
+경인지방통계청
+[source](https://kostat.go.kr/gallery.es?mid=a30306000000&bid=11945)
+경인지방통계청에서 2021년 CCTV 설치 현황에 대해 조사하였다.
+수원시는 범죄예방 11,777대로 가장 많았고, 용인시가 9,581대, 성남시가 8,721대로 그 뒤를 이었다. 고양시는 8,721대로 가장 적었다. 시설 안전 및 재해 재난은 용인시가 3,000대로 가장 많았으며, 수원시가 2,908대, 성남시가 1,949대로 그 뒤를 이었고, 고양시는 1,455대로 가장 적었다.
+
+조사 결과에 따르면 범죄예방은 {{숫자}}년 {{숫자}}%에서 {{숫자}}년 {{숫자}}%로 {{감소/증가}}한 것으로 나타났다.
+
+![[Pasted image 20250311210245.png]]
+
 [Statistics Office Infographic Dump](https://kostat.go.kr/gallery.es?mid=a30306000000&bid=11945)
 - **인구성장지수** Population growth index.
 - **고용를** Employment rate.
