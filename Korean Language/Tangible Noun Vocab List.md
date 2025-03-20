@@ -1,15 +1,12 @@
 This list is a curated collection of nouns from the Kimchi Reader Intermediate Frequency List.
 
-외아들 - only son - A male child with no siblings.
 열쇠고리 - keychain - A ring or chain used to hold keys.
 사진첩 - photo album - A book for organizing and displaying photographs.
 호박 - pumpkin - A large orange gourd used for food or decoration.
-충돌 - collision - An event where two objects come into forceful contact.
 생활용품 - household items - Objects used in daily living.
 경기장 - stadium - A large venue for sports or entertainment events.
 송아지 - calf - A young domestic cow or bull.
 정육점 - butcher shop - A store that sells meat.
-안과 - ophthalmology - The branch of medicine dealing with eyes.
 스케줄 - schedule - A plan listing tasks or events and their times.
 자주색 - purple - A color in the visible spectrum between blue and red.
 등산복 - hiking clothes - Apparel designed for mountain climbing or hiking.
@@ -216,7 +213,6 @@ This list is a curated collection of nouns from the Kimchi Reader Intermediate F
 안심 - relief - A feeling of reassurance or security.
 승차권 - ticket - A pass allowing one to ride a mode of transportation.
 공중전화 - public telephone - A telephone available for public use.
-키스 - kiss - A physical act of affection using the lips.
 목구멍 - throat - The passage inside the neck through which food and air pass.
 계산대 - counter - A flat surface in a store or business where transactions occur.
 기억력 - memory - The mental ability to retain and recall information.
@@ -450,4 +446,3 @@ This list is a curated collection of nouns from the Kimchi Reader Intermediate F
 나물 - wild greens - Edible plants, often used in Korean cuisine.
 우편물 - mail - Letters or parcels delivered to a recipient.
 운전기사 - driver - A person operating a vehicle.
-
