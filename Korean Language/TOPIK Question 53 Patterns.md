@@ -32,7 +32,7 @@
 
 - **Year-to-Year or Overall Changes:**
     - **Pattern:**  
-        TOPIC은 {{숫자}}년 {{숫자}}%에서 {{숫자}}년 {{숫자}}%로 {{감소/증가}}한 것으로 나타났다.
+	    - {{Topic}}은 {{숫자}}년 {{숫자}}%에서 {{숫자}}년 {{숫자}}%로 {{감소/증가}}한 것으로 나타났다.
     - **Forecasting Trend:**  
         이러한 추세가 계속된다면 {{전망}}에 그칠 것으로 전망이다.
 - **Introducing Reasons or Causes:**
