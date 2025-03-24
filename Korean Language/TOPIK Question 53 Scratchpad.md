@@ -2,7 +2,10 @@
 Read these:
 
  - [Question 51, 52](https://www.topikguide.com/topik-ii-writing/)
- - 
+ 
+ 우리 딸 나이 되면서 핏니스에 관심이 많아져서 이번 주말에 체육관 회원 가입해 달라고 부탁했어요.
+ 저는 정기적으로 마라톤 훈련하는데 사실 체육 트레이닝 별로 안 해요.
+ 우리 어제 같이 체육관 가서 웨이트리닝 했습니다.
 ## Chart Writing
 
 ![[Pasted image 20250323104315.png]]
