@@ -1,3 +1,12 @@
+
+### Listing Causes/Factors
+
+이 현상은 주로 A 때문이지만, B의 영향도 있다.
+이 현상은 주로 A로 인해 발생하며, 이어서 B와 C가 그 뒤를 잇는다.
+이러한 추세는 A와 B, 특히 C 등의 다양한 요인에 기인한다.
+이러한 현상은 A와 B 모두 중요한 원인이다.
+이러한 현상의 원인으로는 A와 B, 그리고 C 등을 들 수 있다.
+
 ### 1. **Presenting the Study or Survey Background**
 
 - **Basic Reporting:**    
