@@ -1,3 +1,11 @@
+
+##TODO
+ - [ ] Get test center location/time/etc...
+ - [ ] Review [원고지 rules](https://www.youtube.com/watch?v=2pq-WP2x6CI)
+ - [ ] Review TOPIK Writing slides from last year
+ - [ ] Review a quick [writing overview like this one](https://www.youtube.com/watch?v=YGg9MzKk4oY)
+ - [ ] Lay out clothes, passport/ID, allergy medicine, pens (1 hr away, must arrive 30 min prior)
+![[Pasted image 20250411172607.png]]
 ![[Pasted image 20250407220918.png]]
 
 **INPUT**
@@ -14,16 +22,10 @@
 
 이 차트는 온라인 쇼핑 시장의 변화를 나타내고 있다. 전체 매출과 함께, 사용 기기에 따른 매출액이 제시되어 있다. 사용 기기에 따른 매출액 정보을 살펴보면, 컴퓨터를 통한 구매가 증가하고 있지만, 스마트폰을 통한 구매 또한 증가하고 있으며 그 증가율은 컴퓨터보다 훨씬 더 높은 것으로 나타난다.
 
-TEST ESSAY: 오늘 허망한 하루 이었어요. 어젯밤에 못 자서 하루 종일 졸렸어요. 일직 퇴근하고 낫 잠을 했어요. 그 다음에 40분 동안 런닝하는 둥 만는 둥 했어요. 이제는 혼자서 저녁을 벅고 다시 일을 시작해요.
-
-
 Read these:
 
  - [Question 51, 52](https://www.topikguide.com/topik-ii-writing/)
  
- 우리 딸 나이 되면서 핏니스에 관심이 많아져서 이번 주말에 체육관 회원 가입해 달라고 부탁했어요.
- 저는 정기적으로 마라톤 훈련하는데 사실 체육 트레이닝 별로 안 해요.
- 우리 어제 같이 체육관 가서 웨이트리닝 했습니다.
 ## Chart Writing
 
 ![[Pasted image 20250323104315.png]]
