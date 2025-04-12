@@ -1,7 +1,7 @@
 
 ##TODO
- - [ ] Get test center location/time/etc...
- - [ ] Review [원고지 rules](https://www.youtube.com/watch?v=2pq-WP2x6CI)
+ - [x] Get test center location/time/etc...
+ - [x] Review [원고지 rules](https://www.youtube.com/watch?v=2pq-WP2x6CI)
  - [ ] Review TOPIK Writing slides from last year
  - [ ] Review a quick [writing overview like this one](https://www.youtube.com/watch?v=YGg9MzKk4oY)
  - [ ] Lay out clothes, passport/ID, allergy medicine, pens (1 hr away, must arrive 30 min prior)
@@ -9,13 +9,15 @@
 ![[Pasted image 20250407220918.png]]
 
 
-
+결혼문화연구소에서 20대 이상 성인 남녀 3천 명 대상을 아이를 꼭 낳아야 하는가에 대해 설문조사를 실시하였다. 남자들은 80%가 그렇다고 응답했으며, 여자들은 67%가 그렇다고 응답했다. 아니라고 응답한 이유를 살펴보면, 남자들은 양육비 부담이 가장 많이 나온 응답이었고, 자유로운 생활이라는 답변이 그 뒤를 이었다. 여자들의 응답에는 자유로운 생활이 1위로 나타났으며, 직장 생활 유지라는 응답이 2위로 나타났다.
 
 ![[Pasted image 20250327074213.png]]
 [Source](https://chapterkorean.com/en/topik-53-writing-skill/)
-
+그 외에는 스마트폰이 컴퓨터보다 접근성이 높은 이유도 보였다.
 ![[Pasted image 20250323104315.png]]
+2040년에는 1인 가구 43% 이상 증가할 예정이다.
 ![[Pasted image 20250318192544.png]]
+30대는 공연장과 문화센터가 40%로 가장 높게 나타났으며병원과 약국이 28%, 공원이 22% 나타났으며, 기타는 10%로 그 뒤를 이었다. 반면에 60대는 병원과 약국이 50%로 가장 높게 나타나고 공연장과 문화센터가 23%, 공원이 22%, 마지막으로 기타가 5%로 가장 낮게 나타났다.
 ![[Pasted image 20250318192223.png]]직업
 ---
 
