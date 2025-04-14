@@ -8,7 +8,7 @@ For the sake of this article, I will refer to information technology as a tool t
 I'm going to use a very broad definition of "primitive" here. Anything that lacks a solid state transistor is fair game. This gives us a broad range of technologies, from things as simple as cuneiform to more advanced technologies like the telegraph.
 ### Examples
 [Scrolling Paper Car Maps](https://99percentinvisible.org/article/analog-gps-scrolling-wrist-car-mounted-maps-roaring-20s-30s/)
-[The Pantelegraph](https://en.wikipedia.org/wiki/Pantelegraph) a precursor to the fax machine, inveted in the 1800s.
+[The Pantelegraph](https://en.wikipedia.org/wiki/Pantelegraph) a precursor to the fax machine, invented in the 1800s.
 [Wirephoto](https://en.wikipedia.org/wiki/Wirephoto) a 1930's era invention for transmitting photographs, similar to fax.
 [One Time Pad](https://en.wikipedia.org/wiki/One-time_pad) A pen-and-paper encryption system.
 [Electrical Telegraph](https://en.wikipedia.org/wiki/Electrical_telegraph)
