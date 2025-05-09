@@ -30,5 +30,14 @@ publish: "false"
  - Did Electrical repairs on washing machine (?)
 # April 
 
-- Stopped here...
+- Amonth characterized by Zaida passing, lots of family time, good weather, bad allergies, STEM night, new washer,.
+- New chickens
+- 99th TOPIK
+- Started a Discord for Koala
+- Interview skills class with Daniel
+- Read "Difficult Conversations", that one harvard business review book.
+- 
+
+# May
+ - GWT Marathon
 
