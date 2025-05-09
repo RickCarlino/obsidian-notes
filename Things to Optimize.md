@@ -52,6 +52,7 @@ Maybe I need to start planning my days a month at a time based on what I want ou
 	- publish a scripted blog, vlog or tiktok or something
 - Things I want to do, but don't
 	- Fasting, 1x per month?
+	- stretching
 	- Consistent dual n back training
 	- Korean media project
 	- Set times on FocusMate
@@ -88,3 +89,5 @@ Maybe I need to start planning my days a month at a time based on what I want ou
 - ADP days off (if no holidays that month)
 - fasting day
 - reading days
+- PTO days
+- 
