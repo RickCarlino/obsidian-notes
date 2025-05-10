@@ -24,6 +24,7 @@ I use this as a public notebook for quick ideas or small content that does not f
 - [[Experiment - LLM assisted creation of reading comprehension questions]]
 ### Idea Bin
 * [[Using LLMs to Create End-User Programmable Software]]
+* [[Wouldn’t it be cool if]] a graveyard for random ideas.
 ### Koala Cards
  * [[Koala Cards Roadmap]]
 ### Korean Language Studies
