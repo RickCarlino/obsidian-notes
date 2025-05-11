@@ -17,6 +17,13 @@
 - TOPIK progress
 	- Korean is hard
 	- My schedule is worse
+
+# Where Spaced Repetition Shines
+
+![[Pasted image 20250510204655.png]]
+Spaced repetition is for "Know what", not "Know how".
+SRS => Bottom two layers of Blooms taxonomy.
+
 # Why It's Promising
 - LLMs do not provide comparable quality compared to a teacher or tutor, but:
 	- Provide a higher *volume* of education
