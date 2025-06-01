@@ -40,4 +40,21 @@ publish: "false"
 
 # May
  - GWT Marathon
+ - TOPIK results published - 1 point shy of level 4
+ - Movie night at wild rose
+ - Jordan joins Qualia
+ - Signed up for Door County Fall 50
+ - Microscopy fun
+ - HelloInterview course
+ - 401k contribution change
+ - Ruby upgrade goes live
+ - Replicube, Undertale on steam
+ - Dizzy spells
+ - Koala Discord server slowly growing.
+ - First ever IL dust storm
+ - Mario's concert, emily recital, emily choir assembly.
+ - learning n8n
+ - Michigan trip (Sophia graduation)
+ - FoxBuild AI night
+ - 
 
