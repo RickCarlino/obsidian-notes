@@ -35,6 +35,8 @@ I use this as a public notebook for quick ideas or small content that does not f
  - [[Notes - Korean Conversations and Debating]]
  - [[TOPIK Question 53 Scratchpad]]
  - [[TOPIK Question 53 Patterns]]
+# Korean Writing Practice
+- [[CGI의 시대는 왜 끝났나?]]
 
 # Utils
 
