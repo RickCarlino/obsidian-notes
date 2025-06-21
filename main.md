@@ -26,7 +26,7 @@ I use this as a public notebook for quick ideas or small content that does not f
 * [[Using LLMs to Create End-User Programmable Software]]
 * [[Wouldn’t it be cool if]] a graveyard for random ideas.
 * [[Audio-based Cloze deletion concept]]
-
+* [[Query Routing Protocol]]
 ### Koala Cards
  * [[Koala Cards Roadmap]]
 ### Korean Language Studies
@@ -39,12 +39,11 @@ I use this as a public notebook for quick ideas or small content that does not f
  - [[TOPIK Question 53 Patterns]]
 # Korean Writing Practice
 - [[CGI의 시대는 왜 끝났나?]]
-
 # Utils
 
 * [[A Ruby Packet Analyzer]]
-
 ## Drafts and Incomplete Thoughts
 - [[Probability-Based Software Estimation]]
 - [[Summary of "How to Focus"]]
 - [[Fine Tuning an LLM to Grade Language Learning Prompts]]
+- [[GWebCache Pseudo Specification]]
