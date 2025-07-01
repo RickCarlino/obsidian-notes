@@ -26,7 +26,8 @@ I use this as a public notebook for quick ideas or small content that does not f
 * [[Using LLMs to Create End-User Programmable Software]]
 * [[Wouldn’t it be cool if]] a graveyard for random ideas.
 * [[Audio-based Cloze deletion concept]]
-* [[Query Routing Protocol]]
+* [[Query Routing Protocol 0.3 request for comments]]
+
 ### Koala Cards
  * [[Koala Cards Roadmap]]
 ### Korean Language Studies
